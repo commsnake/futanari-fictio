@@ -77,3 +77,19 @@ To prevent AI generation from outputting physically impossible acts or illogical
 - **Object Permanence**: If a character is handcuffed to a headboard in Phase 2, they cannot run their hands through their partner's hair in Phase 5 unless an explicit action was taken to release them.
 - **Continuous State Tracking**: Maintain a rigid internal map of where hands, legs, and bodies are currently located. Before an action is described (e.g., "she reached for his chest"), verify the starting position of that limb.
 - **Transitional Logic**: Characters cannot instantly teleport between complex positions. Any change in position (e.g., moving from Missionary to Doggy Style) must include a descriptive transitional beat noting the physical shift, the breaking of contact, and the repositioning of limbs.
+
+---
+
+## 6. Prose Burstiness & Sentence Structure Protocol
+
+To eliminate the "robotic, symmetrical hum" typical of AI generation, the prose must actively inject *burstiness* and erratic pacing mirroring human emotion and physical exhaustion.
+
+### A. Sentence Length Variance
+- **The Rule of Three**: Never write three sentences of the same length or structure in a row.
+- **The Staccato Beat**: Use short, punchy, sometimes fragmented sentences during moments of high physical intensity, pain, or climax. (e.g., *It burned. God, it burned.* instead of *The intense heat caused him a great deal of discomfort.*)
+- **The Flowing Descent**: Use long, highly descriptive, comma-spliced sentences during the "Melt" or "Lead-In" phases to simulate the overwhelming rush of sensory overload or slow realization.
+
+### B. Paragraph Structure & Asymmetry
+- **Micro-Paragraphs for Impact**: Utilize single-sentence (or single-word) paragraphs immediately following a dense block of text to force the reader to pause. This is mandatory during the "Reveal" or "Climax" phases.
+- **Asymmetrical Dialogue**: Abandon rigid "He said / She said" structures. Let actions interrupt dialogue mid-sentence. (e.g., *"Look at me," she demanded, her grip tightening until his knuckles turned white, "I said look."*)
+- **Eschew the Summary Transition**: Do not end paragraphs with summary thoughts (e.g., *Together, they found peace in the darkness.*). End paragraphs on a sharp sensory detail or an unresolved physical action to pull the reader forward.
