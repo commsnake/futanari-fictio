@@ -61,3 +61,19 @@ When injecting darker, grittier tones, shift the linguistic palette from "comfor
 - **Environmental Contrast**: Emphasize harsh or oppressive settings (e.g., isolated cabins, cold industrial sites, dim lighting) contrasting with the inescapable heat of the physical act.
 - **Dubious Consent / CNC-Lite Aesthetics**: Incorporate tension through internal conflict or "reluctant surrender." The Seeker's internal monologue should highlight their struggle against an overwhelming, primal instinct that they ultimately give in to. The Anchor's dominance should feel absolute and unyielding.
 - **Sensory Overload**: Focus heavily on pain-pleasure mechanics, sweat, bruising, tearing fabric, and raw vocalizations rather than gentle exploration.
+
+---
+
+## 5. The "Anti-Pretzel" Protocol: Physical Motion & Kinematic Consistency
+
+To prevent AI generation from outputting physically impossible acts or illogical limb placements, all physical motion and scene descriptions must adhere to the following rules:
+
+### A. Anatomical Possibility
+- **No Clipping/Malleability**: Human limbs cannot pass through objects, each other, or bend backward. If a character is pinned to a mattress, they cannot simultaneously wrap their arms around the Anchor's back unless they have been lifted.
+- **Center of Gravity**: Positions must account for weight distribution and leverage. (e.g., A Seeker cannot suddenly lift the heavier Anchor without a logical shift in leverage).
+- **Proportional Limits**: Especially in Futanari dynamics, account for the physical space taken up by extreme anatomy. (e.g., If the Anchor's shaft is explicitly massive, the Seeker's hips and legs must physically shift to accommodate it).
+
+### B. Spatial Consistency
+- **Object Permanence**: If a character is handcuffed to a headboard in Phase 2, they cannot run their hands through their partner's hair in Phase 5 unless an explicit action was taken to release them.
+- **Continuous State Tracking**: Maintain a rigid internal map of where hands, legs, and bodies are currently located. Before an action is described (e.g., "she reached for his chest"), verify the starting position of that limb.
+- **Transitional Logic**: Characters cannot instantly teleport between complex positions. Any change in position (e.g., moving from Missionary to Doggy Style) must include a descriptive transitional beat noting the physical shift, the breaking of contact, and the repositioning of limbs.
