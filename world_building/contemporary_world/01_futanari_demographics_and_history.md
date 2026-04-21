@@ -2,7 +2,9 @@
 
 ## The Statistical Reality
 
-In the modern era, the Futanari genotype (often classified medically as Hyper-Androgenic XX-Bilateral Expression) is exceptionally rare, present in approximately 0.05% of the global population. It is critical to understand that this is a **pan-ethnic medical and biological anomaly, not a distinct race or ethnic lineage.** Futanari individuals are born entirely at random across all global populations, socioeconomic backgrounds, and genetic heritages.
+In the modern era, the Futanari genotype (often classified medically as Hyper-Androgenic XX-Bilateral Expression) is exceptionally rare, present in approximately 0.05% of the global population. To put this in per capita terms, the condition occurs in roughly **1 out of every 2,000 births.** Given a global population of 8 billion, this puts the total worldwide Futanari population at approximately 4 million individuals spread across the entire planet.
+
+It is critical to understand that this is a **pan-ethnic medical and biological anomaly, not a distinct race or ethnic lineage.** Futanari individuals are born entirely at random across all global populations, socioeconomic backgrounds, and genetic heritages.
 
 This extreme rarity makes encountering them in everyday life highly uncommon. Combined with historical suppression and intense social stigma, their visible presence is nearly nonexistent in mainstream society.
 
