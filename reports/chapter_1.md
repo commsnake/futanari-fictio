@@ -26,7 +26,7 @@ The voice was cold, precise, and cut through the ambient noise of the docks like
 
 Leo froze. He looked up.
 
-Standing on the main deck, blocking his path, was a tall woman radiating cold authority.
+Standing on the main deck, looking down at him from the top of the gangway, was a tall woman radiating cold authority. She blocked his only route onto the vessel.
 
 She wore heavy maritime weather-gear, the thick yellow rubber stained with dark oil and older, unidentifiable fluids. Her posture was rigidly straight. A piercing, calculating gaze locked onto him from beneath the brim of her hood. She didn't look like an ordinary sailor. She looked like a predator assessing a very small, very weak meal.
 
@@ -40,15 +40,15 @@ She didn't blink. She stepped closer to the rail, the heavy thud of her boots ag
 
 Leo snapped his jaw shut. The air around him suddenly felt very thin.
 
-The woman ran her eyes up and down his frame. Her expression tightened in disgust. "You will address me as First Mate, and nothing else. And you weigh nothing. No muscle. No sea legs. A strong gust of wind is going to blow you right over the rail." She extended a gloved hand. "The contract. Let me see the digital signature."
+The woman ran her eyes up and down his frame. Her expression tightened in disgust. "You will address me as First Mate, and nothing else. And you weigh nothing. No muscle. No sea legs. A strong gust of wind is going to blow you right over the rail." She extended a gloved hand over the railing. "The contract. Let me see the digital signature."
 
 Leo hesitated. He glanced over his shoulder. At the far end of the dock, two dark sedans pulled up near the fish market, headlights cutting through the fog. The Newark gang. They had tracked him.
 
-Panic seized him. He fumbled in his pocket, pulling out his cracked phone. His fingers were numb from the cold, clumsy and slow. He pulled up the PDF and held the phone out toward her, his hand shaking.
+Panic seized him. He fumbled in his pocket, pulling out his cracked phone. His fingers were numb from the cold, clumsy and slow. He pulled up the PDF. Realizing she wasn't going to step down to the pier, he was forced to step onto the bottom rungs of the gangway to reach her. He held the phone up, his hand shaking.
 
-The First Mate snatched the phone right out of his grip.
+The First Mate snatched the device right out of his grip.
 
-"Hey!" Leo protested, taking an involuntary step forward onto the slick metal of the gangway to reach for it.
+"Hey!" Leo protested, taking another involuntary step up the slick metal of the gangway to reach for it.
 
 She held it out of his reach, scanning the screen with sharp eyes in the dim sodium light.
 
