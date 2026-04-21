@@ -32,23 +32,23 @@ She didn't blink. She stepped closer. The heavy thud of her boots against the st
 
 Leo snapped his jaw shut. The air around him suddenly felt very thin.
 
-The woman ran her eyes up and down his frame. Her expression tightened in disgust. "I'm First Mate Thorne. And you weigh nothing. No muscle. No sea legs. A strong gust of wind is going to blow you right over the rail." She extended a gloved hand. "The contract. Hand it over before I throw you over the side myself."
+The woman ran her eyes up and down his frame. Her expression tightened in disgust. "You will address me as First Mate, and nothing else. And you weigh nothing. No muscle. No sea legs. A strong gust of wind is going to blow you right over the rail." She extended a gloved hand. "The contract. Hand it over before I throw you over the side myself."
 
 Leo fumbled with the zipper of his duffel bag. His fingers were numb from the cold, clumsy and slow. He finally pulled out the crumpled "Articles of Employment" and handed it over, trying to avoid brushing his knuckles against her heavy leather gloves.
 
-Thorne snatched the paper. She scanned it quickly, her sharp eyes flicking across the text in the dim sodium light.
+The First Mate snatched the paper. She scanned it quickly, her sharp eyes flicking across the text in the dim sodium light.
 
 Leo shifted his weight from foot to foot. He remembered skimming the document back in the dimly lit recruiting office. He had seen the sign-on bonus and the route. He had completely glossed over the "F-Designation" clauses, assuming it was just standard maritime legal jargon. He didn't care what the fine print said. He just needed the transport.
 
-"Leo," Thorne read aloud, her voice dripping with condescension. "Super-Greenhorn. You are the lowest entity on this vessel. You do not exist outside of your duties. You cook the calories. You clean the filth. You stay out of the way." She folded the paper and shoved it into her heavy coat pocket. "And if you mess up, you put it right."
+"Leo," the First Mate read aloud, her voice dripping with condescension. "Super-Greenhorn. You are the lowest entity on this vessel. You do not exist outside of your duties. You cook the calories. You clean the filth. You stay out of the way." She folded the paper and shoved it into her heavy coat pocket. "And if you mess up, you put it right."
 
 "Put it right?" Leo asked, his brow furrowing. "Like, docked pay?"
 
-Thorne let out a short, humorless breath. "Something like that. You don't have pay to dock. You have debts to settle. We collect in other ways."
+The First Mate let out a short, humorless breath. "Something like that. You don't have pay to dock. You have debts to settle. We collect in other ways."
 
 A heavy, metallic groan echoed from the belly of the ship. The main deck vibrated beneath Leo's thin sneakers. Someone was coming up from the hold.
 
-"Ox!" Thorne barked without turning around.
+"Ox!" she barked without turning around.
 
 The hatch swung open with a violent clang. Out stepped a towering figure.
 
@@ -60,9 +60,9 @@ She loomed over Leo. The Authority Gap was immediate and profound. Leo was five-
 
 Ox sneered, revealing a gold canine. "This the new meat?" Her voice was a rough, gravelly rumble that vibrated right through Leo's chest.
 
-"Unfortunately," Thorne said coldly. "Show the rat his bunk. Make sure he understands the rules before the engines turn over. I want him processing the inventory in an hour."
+"Unfortunately," the First Mate said coldly. "Show the rat his bunk. Make sure he understands the rules before the engines turn over. I want him processing the inventory in an hour."
 
-Ox didn't reply to Thorne. She just stared down at Leo. She invaded his personal space, stepping so close he could smell the stale sweat, industrial grease, and chewing tobacco radiating off her.
+Ox didn't reply to her. She just stared down at Leo. She invaded his personal space, stepping so close he could smell the stale sweat, industrial grease, and chewing tobacco radiating off her.
 
 "Grab your bag," Ox commanded. "Follow."
 
