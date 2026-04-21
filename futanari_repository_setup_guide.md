@@ -58,11 +58,13 @@ The repository requires a suite of Python scripts to automate the creative pipel
 | `generate_story_ideas.py` | 1 | Uses the research cache to output 15 story arcs featuring stacked tropes, 14-beat Save the Cat structures, and open threads for sequels. | - |
 | `bible_synthesizer.py` | 2 | Generates the `3_cast_ledger.md` and `4_world_bible.md` based on the selected story idea. | KB-03, KB-04 |
 | `prose_drafter.py` / `prose_prompt_generator.py`| 3 | Generates chapter prose (or prompts for external AI generation) based on the arcs and bibles. | KB-01, KB-02 |
+| `codex_injector.py` | 3 | Dynamically injects context from character profiles and the world bible into generation prompts based on keyword matching. | KB-03, KB-07 |
+| `generate_kdp_metadata.py` | 4 | Automates the creation of Amazon A+ suggestions, blurbs, and SEO keywords for final marketing. | - |
 | `anti_ai_filter.py` | 4 | Post-processes the generated chapters to clean "AI tells" from the prose. | KB-02 |
 
 ---
 
-## 4. The 8-Step Workflow Summary
+## 4. The 10-Step Workflow Summary
 
 To fully utilize the repository, the following workflow is executed:
 
@@ -72,5 +74,7 @@ To fully utilize the repository, the following workflow is executed:
 4.  **Research & Subgenre Detection:** Run `research_scraper.py` to categorize the tropes and confirm the Futanari subgenre.
 5.  **Story Generation:** Run `generate_story_ideas.py` to create multiple 14-beat arcs.
 6.  **World Building:** Run `bible_synthesizer.py` to solidify characters and settings.
-7.  **Drafting:** Generate the prose using internal LLMs or by passing outputs from `prose_prompt_generator.py` to an external AI session to bypass explicit content filters.
-8.  **Refinement:** Run `anti_ai_filter.py` to polish the final chapter files.
+7.  **Drafting & Injection:** Run `codex_injector.py` to load dynamic character state and world lore into the prompt, then generate the prose using internal LLMs or external AI sessions.
+8.  **Human-in-the-Loop Checkpoint:** Manual review of the generated chapter specifically checking the "Continuity Handover" accuracy (e.g., physical state, environment, emotions). The author must ensure state passes correctly before the next chapter begins.
+9.  **Refinement:** Run `anti_ai_filter.py` to polish the final chapter files and eliminate AI writing patterns.
+10. **Marketing:** Run `generate_kdp_metadata.py` to produce final Amazon KDP optimized blurbs and A+ module text.
