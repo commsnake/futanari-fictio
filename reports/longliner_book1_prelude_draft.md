@@ -77,4 +77,4 @@ The email swooshed away into the digital ether. It sat in his sent folder, a tic
 
 Leo shoved the phone into his pocket. He scrambled away from the door, grabbing the handle of his single, battered duffel bag. He didn't look back at the room. He slid the rusted window open, the cold coastal air hitting his face like a slap, and slipped out onto the fire escape just as the doorknob behind him began to violently rattle.
 
-He was running. As always, he was running. But this time, he had no idea he was running straight into a cage built on the open ocean.
+He was running. As always, he was running, but this time it was towards the *Maiden's Mast*.

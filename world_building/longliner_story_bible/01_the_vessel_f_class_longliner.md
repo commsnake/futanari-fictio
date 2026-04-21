@@ -1,6 +1,6 @@
-# 01. The Vessel: F-Class Longliner
+# 01. The Vessel: The Maiden's Mast (F-Class Longliner)
 
-The setting of the story is an adapted 60-foot steel pelagic longliner, based on the real-world 60' Astor Longliner design.
+The setting of the story is an adapted 60-foot steel pelagic longliner named the *Maiden's Mast*, based on the real-world 60' Astor Longliner design.
 
 ## Technical Specifications
 
