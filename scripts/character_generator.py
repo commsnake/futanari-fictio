@@ -39,9 +39,36 @@ def generate_face_hair_eyes():
 
     return f"{hair}, {eyes}"
 
-def generate_character_profile(name, role, archetype, gender_config, ethnicity, birthplace):
+def generate_age():
+    return random.randint(18, 55)
+
+def generate_fashion():
+    fashions = [
+        "Worn out flannel and torn jeans", "Sharp tailored suits",
+        "Overalls and combat boots", "Athleisure and running shoes",
+        "Leather jacket and dark denim", "Practical cargo pants and fitted tees",
+        "Vintage dresses and oxfords", "Heavy knit sweaters and corduroy"
+    ]
+    return random.choice(fashions)
+
+def generate_sexual_preferences():
+    oral_positions = ["69", "Receiving head", "Giving head"]
+    sexual_positions = [
+        "Missionary", "Doggy Style", "Cowgirl", "Reverse Cowgirl",
+        "Spooning", "Prone Bone", "Scissoring", "Amazon Position"
+    ]
+    pref_oral = random.choice(oral_positions)
+    # Pick 2 or 3 preferred sexual positions
+    num_positions = random.choice([2, 3])
+    pref_sexual = random.sample(sexual_positions, num_positions)
+    return pref_oral, ", ".join(pref_sexual)
+
+def generate_character_profile(name, role, archetype, gender_config, ethnicity, birthplace, grounding_location):
     height = generate_height()
     build = generate_build()
+    age = generate_age()
+    fashion = generate_fashion()
+    pref_oral, pref_sexual = generate_sexual_preferences()
 
     # Logic for Futanari/Erotica context
     if gender_config.lower() in ["female", "futanari"]:
@@ -62,8 +89,11 @@ def generate_character_profile(name, role, archetype, gender_config, ethnicity, 
 * **Role:** {role}
 * **Archetype:** {archetype}
 * **Gender Configuration:** {gender_config}
+* **Age:** {age}
 * **Background/Ethnicity:** {ethnicity}
 * **Place of Birth/Home:** {birthplace}
+* **Grounding Location:** {grounding_location}
+* **Fashion Sense/Dress Preference:** {fashion}
 
 ## 2. Immutable Physical Traits (Dynamic Anchor)
 > **AI INSTRUCTION ON ANATOMY & MEASUREMENTS:**
@@ -76,18 +106,22 @@ def generate_character_profile(name, role, archetype, gender_config, ethnicity, 
 * **Face/Hair/Eyes:** {face_hair_eyes}
 * **Distinctive Marks:** [To be filled by author]
 
-## 3. Voice & Dialogue Anchor (Show, Don't Tell)
-* **Speech Rhythm:** [To be filled by author]
+## 3. Sexual Preferences
+* **Preferred Oral Position:** {pref_oral}
+* **Preferred Sexual Positions:** {pref_sexual}
+
+## 4. Voice & Dialogue Anchor (Show, Don't Tell)
+* **Speech Rhythm:** [To be filled by author - must match grounding location / place of birth unless justified]
 * **Voice Samples:**
     * *Sample 1 (Calm):* "[To be filled by author]"
     * *Sample 2 (Angry/Tense):* "[To be filled by author]"
     * *Sample 3 (Intimate/Aroused):* "[To be filled by author]"
 
-## 4. Conflict & Reaction Style
+## 5. Conflict & Reaction Style
 * **Conflict Style:** [To be filled by author]
 * **Resistance Style:** [To be filled by author]
 
-## 5. Psychological Baseline (CDP Alignment)
+## 6. Psychological Baseline (CDP Alignment)
 * **Core Wound:** [To be filled by author]
 * **False Belief:** [To be filled by author]
 * **Vulnerability Trigger:** [To be filled by author]
@@ -99,41 +133,49 @@ if __name__ == "__main__":
         {
             "ethnicity": "Irish-American",
             "birthplace": "South Boston, Massachusetts",
+            "grounding_location": "Boston, Massachusetts",
             "names": ["Declan", "Liam", "Connor", "Fiona", "Maeve", "Siobhan", "Sean", "Aidan", "Nora"]
         },
         {
             "ethnicity": "Italian-American",
             "birthplace": "Brooklyn, New York",
+            "grounding_location": "New York City, New York",
             "names": ["Marco", "Giovanni", "Luca", "Sofia", "Isabella", "Carmela", "Enzo", "Mateo", "Lucia"]
         },
         {
             "ethnicity": "Mexican-American",
             "birthplace": "San Diego, California",
+            "grounding_location": "San Diego, California",
             "names": ["Mateo", "Santiago", "Diego", "Valeria", "Camila", "Sofia", "Alejandro", "Javier", "Elena"]
         },
         {
             "ethnicity": "African-American",
             "birthplace": "Atlanta, Georgia",
+            "grounding_location": "Atlanta, Georgia",
             "names": ["Marcus", "Jamal", "Trey", "Aaliyah", "Nia", "Kiara", "DeShawn", "Jasmine", "Malik"]
         },
         {
             "ethnicity": "Japanese-American",
             "birthplace": "Honolulu, Hawaii",
+            "grounding_location": "Honolulu, Hawaii",
             "names": ["Kenji", "Hiroshi", "Takeshi", "Yuki", "Sakura", "Hana", "Ren", "Kai", "Mei"]
         },
         {
             "ethnicity": "Vietnamese-American",
             "birthplace": "Houston, Texas",
+            "grounding_location": "Houston, Texas",
             "names": ["Minh", "Tuan", "Duc", "Mai", "Linh", "Thuy", "Hoang", "An", "Lan"]
         },
         {
             "ethnicity": "Greek-American",
             "birthplace": "Astoria, Queens, New York",
+            "grounding_location": "Queens, New York",
             "names": ["Nikos", "Dimitri", "Costa", "Eleni", "Maria", "Athena", "Yianni", "Sofia", "Andreas"]
         },
         {
             "ethnicity": "Scandinavian-American",
             "birthplace": "Minneapolis, Minnesota",
+            "grounding_location": "Minneapolis, Minnesota",
             "names": ["Lars", "Erik", "Sven", "Freja", "Ingrid", "Astrid", "Bjorn", "Leif", "Kirsten"]
         }
     ]
@@ -146,12 +188,13 @@ if __name__ == "__main__":
     name = random.choice(region["names"])
     ethnicity = region["ethnicity"]
     birthplace = region["birthplace"]
+    grounding_location = region["grounding_location"]
 
     role = random.choice(roles)
     archetype = random.choice(archetypes)
     gender_config = random.choice(gender_configs)
 
-    profile = generate_character_profile(name, role, archetype, gender_config, ethnicity, birthplace)
+    profile = generate_character_profile(name, role, archetype, gender_config, ethnicity, birthplace, grounding_location)
 
     os.makedirs("templates/character_profiles", exist_ok=True)
     filename = f"templates/character_profiles/{name.lower()}_profile.md"
