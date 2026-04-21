@@ -19,8 +19,8 @@ Leo boards the vessel, desperate and broke. He meets the massive, intimidating a
 2. He clutches his meager belongings, anxious about the $15,000 gang debt he's running from.
 3. Leo boards the vessel, immediately struck by the scale of the reinforced F-Designation refits.
 4. He is intercepted on deck by Morgan Thorne, the First Mate.
-5. Morgan's imposing physical presence (6'1", severely toned) immediately triggers Leo's defensive sarcasm.
-6. Morgan remains entirely unfazed by his attitude, using chilling silence to establish dominance.
+5. Morgan's imposing physical presence (6'1", severely toned) immediately triggers Leo's defensive sarcasm; he snarks that he thought he was meeting the Captain.
+6. Morgan smirks, her chill immediately establishing dominance as she replies, "Captain ain't got time for the likes of you. You deal with me, I report to the Captain. Understand?"
 7. She leads him to the Captain's quarters (or a makeshift office area) to finalize the paperwork.
 8. Morgan presents the "Articles of Employment" contract to Leo.
 9. Leo skims the contract, noting the heavy demands (high-capacity galley management, "put it right" CNC clauses).
