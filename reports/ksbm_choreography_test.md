@@ -67,7 +67,7 @@ To transition to the next position (Amazon/Reverse Cowgirl on the bench), the AI
 
 **Active Points of Contact (Locked Limbs):**
 *   **F's Buttocks/Thighs** <--> Surface of Tool Bench (Base Support)
-*   **F's Member** <--> Penetrating M (Core Act)
+*   **F's Member** <--> Penetrating M (Core Act: Anal Penetration)
 *   **F's Hands (Both)** <--> Gripping M's Hips (Driving the motion)
 *   **M's Back** <--> Pressed flush against F's Chest/Stomach
 *   **M's Knees/Shins** <--> Surface of Tool Bench (Support)
