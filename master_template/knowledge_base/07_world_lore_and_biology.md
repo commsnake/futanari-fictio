@@ -8,7 +8,7 @@ Regardless of the specific universe (Sci-Fi, Fantasy, Modern), a [Genre/Theme] c
 
 ### A. Anatomy & Presentation
 - **The Contrast**: They possess completely feminine secondary sex characteristics (breasts, curves, soft skin, feminine facial features, lack of facial/body hair) combined with hyper-masculine primary sex characteristics (a large, functional penis and testicles).
-- **The "Hermaphrodite" Sub-Type vs. "[Genre/Theme]-Only"**: By default, the engine generates "[Genre/Theme]-Only" anatomy (possessing only male genitalia). If the "Hermaphrodite" sub-type is requested, they possess both a vagina and a penis.
+- **The "Hermaphrodite" Sub-Type vs. "Futa-Only"**: By default, the engine generates "Futa-Only" anatomy (possessing only male genitalia). If the "Hermaphrodite" sub-type is requested, they possess both a vagina and a penis.
 
 ### B. Metabolism & Stamina
 - **Hyper-Metabolism**: [Genre/Theme] characters run "hot." They possess a higher baseline body temperature, enhanced metabolic rate, and significantly faster recovery times compared to standard humans.
@@ -30,7 +30,7 @@ The engine utilizes four primary "World Forms" to contextualize the existence of
 
 ### World Form B: The Matriarchal Elite (High Fantasy / Alternate History)
 - **The Lore**: [Genre/Theme] are considered the apex of evolution or possess divine right. They rule society, serving as nobles, elite warriors, or royalty. Males are often subservient or relegated to breeding stock/servant roles.
-- **The Dynamic**: Focuses on extreme class gaps, [Genre/Theme]-on-Male ego subversion, and unapologetic dominance.
+- **The Dynamic**: Focuses on extreme class gaps, Futa-on-Male ego subversion, and unapologetic dominance.
 
 ### World Form C: The Genetic Anomaly (Sci-Fi / Cyberpunk)
 - **The Lore**: The [Genre/Theme] condition is the result of genetic engineering, cybernetic augmentation, or a synthetic virus. It may be a sought-after military upgrade or an illegal black-market body modification.

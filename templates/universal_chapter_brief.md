@@ -94,6 +94,7 @@ This section explicitly passes the state of characters and environment to the ne
 * **Environmental State:** Time of day, location, and the condition of the immediate surroundings.
 * **Inventory / Dress:** Current clothing status (torn, missing, clean) and held items.
 * **Emotional Baseline:** The immediate psychological state to carry into the first paragraph of the next chapter.
+* **Residual Tension Type:** (e.g., Aftercare-to-Hook) The narrative bridge mapping the shift from the end of this scene to the start of the next.
 
 ## 15. CDP Psychological Alignment
 For major characters:

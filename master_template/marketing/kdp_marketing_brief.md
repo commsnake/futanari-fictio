@@ -1,6 +1,6 @@
 # Amazon KDP Erotica & Steamy Romance Marketing Brief
 
-This document outlines best practices for metadata optimization (Titles, Keywords, Blurbs, Content Warnings) on Amazon KDP, particularly for high-heat, niche erotica (e.g., [genre/theme], forced proximity, dark romance).
+This document outlines best practices for metadata optimization (Titles, Keywords, Blurbs, Content Warnings) on Amazon KDP, particularly for high-heat, niche erotica (e.g., [Genre/Theme], forced proximity, dark romance).
 
 ## 1. Title Structure Formula
 Amazon KDP algorithms and romance readers respond best to clear, trope-heavy title structures. Avoid overly poetic titles if they don't convey the genre.
@@ -20,14 +20,14 @@ Amazon provides 7 backend keyword slots. Romance readers use "long-tail" keyword
 
 **Keyword Categories to Mix:**
 1.  **Trope/Subgenre:** `forced proximity romance`, `size difference erotica`, `gritty road trip romance`
-2.  **Character Archetypes:** `protector dominant`, `submissive runaway`, `[genre/theme] protagonist`, `alpha butch`
+2.  **Character Archetypes:** `protector dominant`, `submissive runaway`, `[Genre/Theme] protagonist`, `alpha butch`
 3.  **Vibe/Emotion:** `slow burn to high heat`, `gritty suspense romance`, `healing romance`
 4.  **Setting/Situation:** `stranded in a storm`, `trucker romance`, `small cab romance`
 
 **Best Practices:**
 *   Use all available character space (50 characters per slot).
 *   Combine concepts: `forced proximity truck driver romance`.
-*   *Avoid "Erotica" label traps:* If targeting romance categories (to avoid the "erotica dungeon" suppression), rely on phrases like `steamy romance`, `high heat romance`, or `spicy romance`. (Though for actual explicit [genre/theme], the Erotica category might be inevitable; embrace it if so, using `explicit erotica`).
+*   *Avoid "Erotica" label traps:* If targeting romance categories (to avoid the "erotica dungeon" suppression), rely on phrases like `steamy romance`, `high heat romance`, or `spicy romance`. (Though for actual explicit [Genre/Theme], the Erotica category might be inevitable; embrace it if so, using `explicit erotica`).
 
 ## 3. Blurb Structure (The Hook, The Meat, The Tropes)
 A highly converting KDP romance blurb follows a specific 4-part structure, optimized for skimming.

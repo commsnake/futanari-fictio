@@ -3,7 +3,7 @@
 ## 1. Core Concept & Role
 * **Role:** Seeker
 * **Archetype:** The Explorer
-* **Gender Configuration:** Futanari
+* **Gender Configuration:** [Genre/Theme]
 
 ## 2. Immutable Physical Traits (Dynamic Anchor)
 > **AI INSTRUCTION ON ANATOMY & MEASUREMENTS:**

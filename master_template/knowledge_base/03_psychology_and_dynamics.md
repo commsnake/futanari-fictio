@@ -35,7 +35,7 @@ The Sanctuary is not just a place (The Springs/Penthouse), but a state.
 
 ---
 
-## 5. M/[Genre/Theme] Dynamics & Male Ego Subversion
+## 5. M/Futa Dynamics & Male Ego Subversion
 This specific dynamic explores the intense psychological shift required when a male partner surrenders to a [Genre/Theme] Anchor.
 
 - **The Ego Break**: The male partner (typically the Seeker in this dynamic) must experience a shattering of traditional masculine bravado. He is forced to confront his physical and sexual inferiority compared to the [Genre/Theme] Anchor's dominant biology.
