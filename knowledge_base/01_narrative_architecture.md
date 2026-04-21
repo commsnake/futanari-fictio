@@ -57,3 +57,18 @@ The ultimate reward for the reader's investment. It must fulfill the promises *a
 - **The Culmination:** The climax of the story must resolve both the primary plot and the core erotic/romantic tension simultaneously. The physical acts should reflect the emotional breakthroughs.
 - **Exceeding Expectations:** Deliver the promised tropes with higher intensity and deeper emotional resonance than the reader anticipated (e.g., a dominant character showing unexpected vulnerability, or an intense CNC scene ending with profound emotional bonding).
 - **The Anchor:** The ultimate payoff requires *Phase 8: Aftercare*. This grounds the extreme physical acts in emotional safety, cementing the HEA and fulfilling the "Safety Promise."
+
+---
+
+## 5. Generation Workflow & Physics Checks
+
+To maintain narrative fidelity and prevent AI artifacts, all generation must follow these protocols:
+
+### The Two-Pass Generation Model
+We maintain strict control over the prose by separating the cognitive load into two distinct generation passes:
+- **Pass 1 (Content & Action):** Use the Universal Chapter Brief (UCB) and this Narrative Architecture module to generate the structural beats. Focus entirely on the 8-Phase Erotic Cycle, plot progression, and physical continuity.
+- **Pass 2 (Voice & Style Refinement):** Use the Orion StyleSynthesizer templates and specific character dialogue samples (from the Character Profile Template) to perform a dedicated rewrite pass focused *solely* on prose burstiness, subtext, and matching the character's specific voice anchor.
+
+### The "Anti-Pretzel" Spatial Physics Check
+Because we produce explicit content (including Futanari and Dark Erotica), AI spatial awareness is critical. AI models frequently lose track of limbs, orientation, and physics.
+- **Prompt Injection:** Append the following explicit instruction to all explicit generation prompts: *"Reference the character's physical dimensions and the current environment. Ensure all movements are anatomically possible and maintain strict spatial consistency."*
