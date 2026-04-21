@@ -41,7 +41,7 @@ The core of the procedural generation relies on a strictly defined knowledge bas
     *   *Requirement:* Must define the Anchor/Seeker dyad model, Authority Gaps (Competence, Emotional, Physical), and Vulnerability Triggers, which are highly relevant in [Genre/Theme] "Reveal" and "Transformation" tropes.
 4.  **`04_spice_trope_library.md` (KB-04)**
     *   *Purpose:* A library of Spice trope IDs (e.g., VOY-01 to SYM-10).
-    *   *Requirement:* Must include a usage guide for scene generation, specifically adapted to include common [Genre/Theme] tropes (Size Difference, Secret Futa, Breeding, Forced Proximity).
+    *   *Requirement:* Must include a usage guide for scene generation, specifically adapted to include common [Genre/Theme] tropes (Size Difference, Secret [Genre/Theme], Breeding, Forced Proximity).
 
 ---
 

@@ -22,9 +22,9 @@ This module indexes the 50+ "Spice Seeds" derived from the legacy scene library,
 
 ## 5. [Genre/Theme] Specific (Transformation/Reveal Archetype)
 - **Trope ID: FUT-01 (The Secret Reveal)**: The dramatic unmasking of hidden anatomy, transitioning from shock to intense arousal.
-- **Trope ID: FUT-02 (Size Kink/Proportions)**: Extreme focus on the exaggerated size and stamina of the [genre/theme] anatomy compared to the partner.
+- **Trope ID: FUT-02 (Size Kink/Proportions)**: Extreme focus on the exaggerated size and stamina of the [genre-theme] anatomy compared to the partner.
 - **Trope ID: FUT-03 (Sudden Sprout)**: A magical/sci-fi transformation where a female character suddenly develops male genitalia, focusing on discovery.
-- **Trope ID: FUT-04 (M/[Genre/Theme] Ego Break)**: Focus on the stripping away of male bravado as the male partner submits to the superior physical and sexual dominance of the [genre/theme].
+- **Trope ID: FUT-04 (M/[Genre/Theme] Ego Break)**: Focus on the stripping away of male bravado as the male partner submits to the superior physical and sexual dominance of the [genre-theme].
 
 ## 6. Dark / Obsessive Archetype
 - **Trope ID: DRK-11 (The Obsessive Claim)**: Focus on intense ownership, boundary-pushing power exchange, and the psychological weight of being utterly consumed or ruined by a dominant partner.

@@ -48,7 +48,7 @@ Based on the KDP Title Formula (`[Catchy Title]: A [Trope/Subgenre] Romance`) an
 | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
 | **1. The Midnight Haul: A Forced Proximity [Genre/Theme] Romance** | 5 | 4 | 5 | 4 | **18** | Hits all major keywords clearly. Subtitle is functional. |
 | 2. Shifting Gears: A Size Difference Road Trip Romance | 4 | 3 | 4 | 5 | 16 | Good keywords, slightly generic title. |
-| 3. Riding Shotgun: A Steamy Protector Romance | 3 | 4 | 3 | 5 | 15 | Catchy, but misses the niche "[genre/theme]/trucker" aspects. |
+| 3. Riding Shotgun: A Steamy Protector Romance | 3 | 4 | 3 | 5 | 15 | Catchy, but misses the niche "[genre-theme]/trucker" aspects. |
 | 4. Stranded with Her: A High-Heat Trucker Romance | 4 | 4 | 4 | 5 | 17 | Solid all-rounder. |
 | 5. The Long Haul: A Forced Proximity Erotica | 4 | 3 | 4 | 4 | 15 | "Erotica" limits organic romance reach, but accurate. |
 | 6. Miles of Desire: A Gritty Runaway Romance | 3 | 4 | 3 | 5 | 15 | Evocative, but vague on the specific niche. |
