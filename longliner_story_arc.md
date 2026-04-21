@@ -2,6 +2,7 @@
 
 **Vibe:** Gritty Blue-Collar, High Seas Isolation, Intense Power Exchange.
 **Focus:** Futa-on-Male Dynamics, Male Ego Subversion, MPreg (Book 3).
+**KDP Compliance Note:** This story arc explicitly adheres to `knowledge_base/08_kdp_compliance_protocol.md`. The Front Matter must contain a Content Warning explicitly stating the presence of Consensual Non-Consent (CNC) and affirming all characters are 18+.
 **Core Premise:** "Leo," a young male fresh out of the foster system, needs a cheap transport down the coast to start a new life. He strikes a deal with the crew of a 60ft Tuna Longliner: free passage in exchange for cooking all meals and doing grunt work. The catch? The entire five-person crew are imposing Futanari, and he is forced to sign a draconian "Articles of Employment" contract before boarding. This explicit pre-consent stipulates that any mistakes or disruptions caused by the "Super-Greenhorn" must be "put right" through absolute, unquestioning physical submission, framing all future dominance as Consensual Non-Consent (CNC).
 
 ---
