@@ -36,3 +36,24 @@ Correlation between manuscript length and erotic density.
 - **Heat 4-6**: 1-2 key scenes per arc; focus on romantic buildup. **Futanari Specific:** The build-up must focus on hiding the anatomy, creating tension through forced proximity or near-miss "accidental reveals."
 - **Heat 7-9**: Explicit, phase-aware scenes (The 8-Phase Cycle). **Futanari Specific:** The "Reveal" acts as the Catalyst (Phase 3: Dynamic Shift). The shock must quickly pivot to intense arousal and acceptance.
 - **Heat 10**: High-saturation "Smut" density; erotic beats drive the plot directly. **Futanari Specific:** Heavy focus on anatomical mechanics, size kink, stamina, and volume. The erotic cycle may repeat rapidly without full aftercare between acts.
+
+## 4. Sanderson's Promise, Progress, Payoff (Erotica Adaptation)
+Brandon Sanderson's structural storytelling framework is highly applicable to romance and erotica, ensuring that reader expectations are set, managed, and overwhelmingly satisfied.
+
+### Promises
+Every story must establish core expectations early on. In our genre, this goes beyond plot:
+- **Tone & Trope Promises:** Establish the specific kinks, power dynamics (e.g., CNC, mpreg), and themes within the first 10% of the arc.
+- **Heat Promise:** Signal the intended H-KIS level early through subtext, physical proximity, or internal monologue.
+- **The "Safety" Promise (KDP Shield):** Guaranteeing a Happily Ever After (HEA) or Happy For Now (HFN) and ensuring all non-consent elements are safely contextualized as CNC (Consensual Non-Consent).
+
+### Progress
+The feeling of moving toward the fulfillment of the promises. Without progress, the narrative stalls.
+- **Physical Escalation:** Gradually climbing the Heat Ladder. Moving from stolen glances to proximity, to accidental touch, culminating in phase-aware explicit scenes.
+- **Psychological Escalation (The Turn):** Tracking the internal shift from resistance, fear, or hesitation to arousal, acceptance, and surrender. Progress here is measured in internal monologue and physical reactions betraying their mental state.
+- **Micro-Progressions:** Utilizing the *8-Phase Erotic Cycle* within individual scenes to ensure each encounter feels like a mini-narrative with its own progression arc.
+
+### Payoff
+The ultimate reward for the reader's investment. It must fulfill the promises *and then some*.
+- **The Culmination:** The climax of the story must resolve both the primary plot and the core erotic/romantic tension simultaneously. The physical acts should reflect the emotional breakthroughs.
+- **Exceeding Expectations:** Deliver the promised tropes with higher intensity and deeper emotional resonance than the reader anticipated (e.g., a dominant character showing unexpected vulnerability, or an intense CNC scene ending with profound emotional bonding).
+- **The Anchor:** The ultimate payoff requires *Phase 8: Aftercare*. This grounds the extreme physical acts in emotional safety, cementing the HEA and fulfilling the "Safety Promise."
