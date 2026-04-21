@@ -66,6 +66,7 @@ List symbols, motifs, emotions, or psychological themes that should be subtly wo
 *(To be passed to the next chapter)*
 *   **Physical State:** Current location, bodily fluids, injuries, clothing status (e.g., "shirt torn," "limping on left leg").
 *   **Psychological State:** Current emotional baseline, trust level, immediate post-scene reaction (e.g., "defensive," "post-climax aftercare drop, highly vulnerable").
+*   **Residual Tension Type:** To bridge the Aftercare-to-Hook gap. Define the emotional "flavor" carrying into the next chapter (e.g., "vulnerable/shielded," "empowered/dominant," "anxious/anticipatory").
 *   **Future Setup:** What foreshadowing or setup was planted for future chapters? Objects, vocabulary, ritual actions to track.
 
 ## 14. CDP Psychological Alignment

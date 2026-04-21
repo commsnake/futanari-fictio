@@ -19,13 +19,13 @@ All explicit scenes must graduate through these eight phases to ensure psycholog
 ---
 
 ## 2. H-KIS Intensity Levels (Heat-Kink-Intensity-Saturation)
-The algorithmic switch for content calibration.
+The algorithmic switch for content calibration. *Includes specific Sensory Threshold requirements to automate vocabulary shifts.*
 
-- **Level 1 (Exploratory & Sensual)**: Mutual discovery, gentle touch, emotional connection. No graphic acts.
-- **Level 2 (Thematic Power Play)**: Consensual power dynamics, teasing, light discipline, playful dominance.
-- **Level 3 (Hardcore Dynamics)**: Intense acts, high sensory detail, multi-partner orchestration.
-- **Level 4 (Edgeplay & CNC)**: High-tension, consensual reality roleplay, psychological heavy-lifting.
-- **Level 5 (Transgressive & Permanent)**: Absolute surrender, extreme taboos, deep psychological impact.
+- **Level 1 (Exploratory & Sensual)**: Mutual discovery, gentle touch, emotional connection. No graphic acts. **Sensory Focus:** Psychological tension, scent, sound.
+- **Level 2 (Thematic Power Play)**: Consensual power dynamics, teasing, light discipline, playful dominance. **Sensory Focus:** Psychological tension, atmospheric shifts, friction.
+- **Level 3 (Hardcore Dynamics)**: Intense acts, high sensory detail, multi-partner orchestration. **Sensory Focus:** Visceral/Tactile descriptions. Prioritize "Anatomic Anchor" words.
+- **Level 4 (Edgeplay & CNC)**: High-tension, consensual reality roleplay, psychological heavy-lifting. **Sensory Focus:** Visceral/Tactile, sharp contrasts (pain/pleasure). Prioritize "Anatomic Anchor" words.
+- **Level 5 (Transgressive & Permanent)**: Absolute surrender, extreme taboos, deep psychological impact. **Sensory Focus:** Absolute Visceral/Tactile saturation, overwhelming physical limits. Prioritize "Anatomic Anchor" words.
 
 ---
 

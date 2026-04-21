@@ -14,6 +14,11 @@
 *   **Build/Physique:** (e.g., "Broad-shouldered, Calloused hands, Left knee clicks when walking")
 *   **Face/Features:** (e.g., "Crooked nose from a childhood break, Olive skin, Heavy brow")
 *   **Habitual Movements/Tics:** (e.g., "Rubs the back of his neck when lying," "Always stands with weight on the right leg")
+
+### Anatomic Table (Scale/Dimensions)
+*Hard-coding spatial limits for the Anti-Pretzel Protocol. Use specific measurements.*
+*   **Height:** (e.g., 6'2")
+*   **Relative Scale:** (e.g., Towers over Character B, requires ducking through standard doorways)
 *   **Erotic/Anatomical Anchors:** (Specifics on anatomy, sensitivity, or physical quirks relevant to explicit scenes)
 
 ## 3. Psychological Baseline (CDP Alignment)
