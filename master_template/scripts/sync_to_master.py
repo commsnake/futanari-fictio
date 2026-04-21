@@ -23,8 +23,13 @@ def sync_file(src_path, dest_path):
 
 def main():
     root_dirs_to_sync = ['scripts', 'knowledge_base', 'ai_tells_prevention', 'marketing', 'reference', 'style_guides']
+    root_files_to_sync = ['AGENTS.md', 'master_workflow.md']
 
     master_template_dir = 'master_template'
+
+    for file_name in root_files_to_sync:
+        if os.path.exists(file_name):
+            sync_file(file_name, os.path.join(master_template_dir, file_name))
 
     for dir_name in root_dirs_to_sync:
         src_dir = dir_name
