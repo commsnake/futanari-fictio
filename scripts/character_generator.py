@@ -39,7 +39,7 @@ def generate_face_hair_eyes():
 
     return f"{hair}, {eyes}"
 
-def generate_character_profile(name, role, archetype, gender_config):
+def generate_character_profile(name, role, archetype, gender_config, ethnicity, birthplace):
     height = generate_height()
     build = generate_build()
 
@@ -62,6 +62,8 @@ def generate_character_profile(name, role, archetype, gender_config):
 * **Role:** {role}
 * **Archetype:** {archetype}
 * **Gender Configuration:** {gender_config}
+* **Background/Ethnicity:** {ethnicity}
+* **Place of Birth/Home:** {birthplace}
 
 ## 2. Immutable Physical Traits (Dynamic Anchor)
 > **AI INSTRUCTION ON ANATOMY & MEASUREMENTS:**
@@ -93,17 +95,63 @@ def generate_character_profile(name, role, archetype, gender_config):
     return template
 
 if __name__ == "__main__":
-    names = ["Alex", "Sam", "Jordan", "Morgan", "Taylor"]
+    regions = [
+        {
+            "ethnicity": "Irish-American",
+            "birthplace": "South Boston, Massachusetts",
+            "names": ["Declan", "Liam", "Connor", "Fiona", "Maeve", "Siobhan", "Sean", "Aidan", "Nora"]
+        },
+        {
+            "ethnicity": "Italian-American",
+            "birthplace": "Brooklyn, New York",
+            "names": ["Marco", "Giovanni", "Luca", "Sofia", "Isabella", "Carmela", "Enzo", "Mateo", "Lucia"]
+        },
+        {
+            "ethnicity": "Mexican-American",
+            "birthplace": "San Diego, California",
+            "names": ["Mateo", "Santiago", "Diego", "Valeria", "Camila", "Sofia", "Alejandro", "Javier", "Elena"]
+        },
+        {
+            "ethnicity": "African-American",
+            "birthplace": "Atlanta, Georgia",
+            "names": ["Marcus", "Jamal", "Trey", "Aaliyah", "Nia", "Kiara", "DeShawn", "Jasmine", "Malik"]
+        },
+        {
+            "ethnicity": "Japanese-American",
+            "birthplace": "Honolulu, Hawaii",
+            "names": ["Kenji", "Hiroshi", "Takeshi", "Yuki", "Sakura", "Hana", "Ren", "Kai", "Mei"]
+        },
+        {
+            "ethnicity": "Vietnamese-American",
+            "birthplace": "Houston, Texas",
+            "names": ["Minh", "Tuan", "Duc", "Mai", "Linh", "Thuy", "Hoang", "An", "Lan"]
+        },
+        {
+            "ethnicity": "Greek-American",
+            "birthplace": "Astoria, Queens, New York",
+            "names": ["Nikos", "Dimitri", "Costa", "Eleni", "Maria", "Athena", "Yianni", "Sofia", "Andreas"]
+        },
+        {
+            "ethnicity": "Scandinavian-American",
+            "birthplace": "Minneapolis, Minnesota",
+            "names": ["Lars", "Erik", "Sven", "Freja", "Ingrid", "Astrid", "Bjorn", "Leif", "Kirsten"]
+        }
+    ]
+
     roles = ["Protagonist", "Anchor", "Seeker", "Antagonist"]
     archetypes = ["The Stoic", "The Rebel", "The Caregiver", "The Explorer"]
     gender_configs = ["Futanari", "Female", "Male"]
 
-    name = random.choice(names)
+    region = random.choice(regions)
+    name = random.choice(region["names"])
+    ethnicity = region["ethnicity"]
+    birthplace = region["birthplace"]
+
     role = random.choice(roles)
     archetype = random.choice(archetypes)
     gender_config = random.choice(gender_configs)
 
-    profile = generate_character_profile(name, role, archetype, gender_config)
+    profile = generate_character_profile(name, role, archetype, gender_config, ethnicity, birthplace)
 
     os.makedirs("templates/character_profiles", exist_ok=True)
     filename = f"templates/character_profiles/{name.lower()}_profile.md"

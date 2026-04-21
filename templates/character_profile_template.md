@@ -3,6 +3,8 @@
 ## 1. Core Concept & Role
 * **Role:** [e.g., Protagonist, Anchor, Seeker, Antagonist]
 * **Archetype:** [Brief description of their personality/role]
+* **Background/Ethnicity:** [e.g., Irish-American, Japanese]
+* **Place of Birth/Home:** [e.g., South Boston, Tokyo]
 
 ## 2. Immutable Physical Traits (Dynamic Anchor)
 > **AI INSTRUCTION ON ANATOMY & MEASUREMENTS:**
