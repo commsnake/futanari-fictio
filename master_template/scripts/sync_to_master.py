@@ -22,7 +22,7 @@ def sync_file(src_path, dest_path):
         f.write(content)
 
 def main():
-    root_dirs_to_sync = ['scripts', 'knowledge_base', 'ai_tells_prevention', 'marketing', 'reference', 'style_guides']
+    root_dirs_to_sync = ['scripts', 'knowledge_base', 'ai_tells_prevention', 'marketing', 'reference', 'style_guides', 'templates']
     root_files_to_sync = ['AGENTS.md', 'master_workflow.md']
 
     master_template_dir = 'master_template'
