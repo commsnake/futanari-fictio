@@ -2,18 +2,27 @@
 
 ## The Statistical Reality
 
-In the modern era, the Futanari genotype (often classified medically as Hyper-Androgenic XX-Bilateral Expression) is exceptionally rare, present in approximately 0.05% of the global population. This extreme rarity makes encountering them in everyday life highly uncommon. Combined with historical suppression and intense social stigma, their visible presence is nearly nonexistent in mainstream society.
+In the modern era, the Futanari genotype (often classified medically as Hyper-Androgenic XX-Bilateral Expression) is exceptionally rare, present in approximately 0.05% of the global population. It is critical to understand that this is a **pan-ethnic medical and biological anomaly, not a distinct race or ethnic lineage.** Futanari individuals are born entirely at random across all global populations, socioeconomic backgrounds, and genetic heritages.
 
-Unlike standard intersex conditions, the Futanari genotype expresses with striking uniformity: female secondary sex characteristics combined with fully developed, hyper-functional male primary genitalia and an associated hyper-metabolic endocrine system.
+This extreme rarity makes encountering them in everyday life highly uncommon. Combined with historical suppression and intense social stigma, their visible presence is nearly nonexistent in mainstream society.
 
-Geographically, expression rates remain largely consistent worldwide, though their social organization creates concentrated pockets rather than even distribution.
+Unlike standard intersex conditions, the Futanari genotype expresses with striking uniformity regardless of the individual's racial background: female secondary sex characteristics combined with fully developed, hyper-functional male primary genitalia and an associated hyper-metabolic endocrine system.
+
+Geographically, birth rates remain perfectly consistent worldwide. However, their specific social organization causes severe geographic clustering as adults, creating concentrated pockets rather than an even distribution.
 
 ## Social Organization: Lone Wolves and Enclaves
 
 Due to their extreme rarity and societal alienation, Futanari individuals tend to follow two distinct paths of social organization:
 
 *   **The Lone Wolves:** A significant portion choose a life of heavy isolation. Driven to the fringes by the "Pink Tax" (the massive cost of their specific caloric and medical needs) and social fetishization, they often take transient or hyper-isolated jobs. They integrate functionally into society for work but maintain zero personal connections, moving quietly through the world as solitary actors.
-*   **The Enclaves (The "Open-Amish" Model):** For those seeking community, they often form loose, semi-isolated settlements. Unlike strict religious communes like the Amish, these enclaves are deeply integrated into the modern economy—often dominating local blue-collar industries (like logging camps or coastal fishing towns)—but remain fiercely insular socially. They live in close geographic proximity, pool resources for specialized medical care and food, and govern their own internal social affairs. Outsiders are permitted for business and trade, but social integration and romantic entanglement with standard humans are heavily discouraged or rigidly managed to protect the enclave's safety.
+*   **The Enclaves (The "Open-Amish" Model):** For those seeking community, they often form loose, semi-isolated settlements. Because they are born randomly across the globe, **individuals migrate to these enclaves in adulthood** once they gain independence. Unlike strict religious communes like the Amish, these enclaves are deeply integrated into the modern economy—often dominating local blue-collar industries (like logging camps or coastal fishing towns)—but remain fiercely insular socially. They live in close geographic proximity, pool resources for specialized medical care and food, and govern their own internal social affairs. Outsiders are permitted for business and trade, but social integration and romantic entanglement with standard humans are heavily discouraged or rigidly managed to protect the enclave's safety.
+
+## Infrastructure and Adaptation
+
+A core tenet of contemporary Futanari existence is that **the world has not adapted to them.** Because their population is so vanishingly small (0.05%), their existence has zero impact on macro-level human infrastructure.
+
+*   **The Binary Build:** Cities, hospitals, public transit, and residential architecture remain entirely designed for the standard male/female binary and standard human physical capabilities. There are no specialized public facilities, no distinct architectural accommodations, and no structural changes to the modern world to suit them.
+*   **Forced Assimilation:** Rather than the world bending to accommodate their hyper-metabolism, increased size, or unique medical needs, Futanari individuals are forced to bend to the world. They must exist within a society physically and socially built for standard humans. This structural friction is a constant, exhausting reality of their daily lives, further driving the isolation of the Lone Wolves and the necessity of the Enclaves.
 
 ## Historical Context: From Myth to Medicalization
 
