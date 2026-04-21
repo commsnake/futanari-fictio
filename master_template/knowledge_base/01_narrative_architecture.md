@@ -33,9 +33,9 @@ The algorithmic switch for content calibration.
 Correlation between manuscript length and erotic density.
 
 - **Heat 1-3**: Erotic elements are subtextual or "Closed Door."
-- **Heat 4-6**: 1-2 key scenes per arc; focus on romantic buildup. **Futanari Specific:** The build-up must focus on hiding the anatomy, creating tension through forced proximity or near-miss "accidental reveals."
-- **Heat 7-9**: Explicit, phase-aware scenes (The 8-Phase Cycle). **Futanari Specific:** The "Reveal" acts as the Catalyst (Phase 3: Dynamic Shift). The shock must quickly pivot to intense arousal and acceptance.
-- **Heat 10**: High-saturation "Smut" density; erotic beats drive the plot directly. **Futanari Specific:** Heavy focus on anatomical mechanics, size kink, stamina, and volume. The erotic cycle may repeat rapidly without full aftercare between acts.
+- **Heat 4-6**: 1-2 key scenes per arc; focus on romantic buildup. **[Genre/Theme] Specific:** The build-up must focus on hiding the anatomy, creating tension through forced proximity or near-miss "accidental reveals."
+- **Heat 7-9**: Explicit, phase-aware scenes (The 8-Phase Cycle). **[Genre/Theme] Specific:** The "Reveal" acts as the Catalyst (Phase 3: Dynamic Shift). The shock must quickly pivot to intense arousal and acceptance.
+- **Heat 10**: High-saturation "Smut" density; erotic beats drive the plot directly. **[Genre/Theme] Specific:** Heavy focus on anatomical mechanics, size kink, stamina, and volume. The erotic cycle may repeat rapidly without full aftercare between acts.
 
 ## 4. Sanderson's Promise, Progress, Payoff (Erotica Adaptation)
 Brandon Sanderson's structural storytelling framework is highly applicable to romance and erotica, ensuring that reader expectations are set, managed, and overwhelmingly satisfied.

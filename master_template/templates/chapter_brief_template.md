@@ -1,6 +1,3 @@
-# Universal Chapter Brief Template for Erotic Fiction
-
-*(Copy/paste directly. Fill out each section for the specific chapter, ensuring alignment with the project's knowledge base constraints, especially KDP compliance and Anti-Pretzel protocols.)*
 ⭐ FULL CHAPTER BRIEF — UNIVERSAL TEMPLATE FOR EROTIC FICTION
 
 (Copy/paste directly. Each section contains instructions for the author/AI.)
@@ -9,12 +6,13 @@
 Specify the chapter title or number exactly as it appears in the outline.
 
 ## 2. POV (Point of View)
-*   **POV character:**
-*   **POV style (e.g., 1st person, 3rd limited):**
-*   **Justification:** Why this POV is chosen for this chapter’s emotion, conflict, or erotic charge.
+* **POV character:**
+* **POV style (e.g., 1st person, 3rd limited):**
+* **Justification:** Why this POV is chosen for this chapter’s emotion, conflict, or erotic charge.
 
 ## 3. Genre & Subgenre
-List the story’s genre(s) relevant to this chapter (e.g., Gritty Blue-Collar Romance • Dark Futanari • Forced Proximity).
+List the story’s genre(s) relevant to this chapter.
+(e.g., Dark Femdom Romance • Gothic Erotica • Harem Fantasy • Contemporary Erotic Thriller)
 
 ## 4. Plot Summary (Verbatim)
 Paste the chapter’s plot summary exactly as written in the outline. Do not change wording.
