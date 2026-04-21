@@ -18,51 +18,51 @@ The voice was cold, precise, and cut through the ambient noise of the docks like
 
 Leo froze. He looked up.
 
-Standing on the main deck, blocking his path, was First Mate Morgan Thorne.
+Standing on the main deck, blocking his path, was a tall woman radiating cold authority.
 
 She wore heavy maritime weather-gear, the thick yellow rubber stained with dark oil and older, unidentifiable fluids. Her posture was rigidly straight. A piercing, calculating gaze locked onto him from beneath the brim of her hood. She didn't look like an ordinary sailor. She looked like a predator assessing a very small, very weak meal.
 
-"You the galley rat the Old Man signed?" Morgan asked. She didn't raise her voice, but the sheer command in her tone made Leo flinch.
+"You the galley rat the Old Man signed?" she asked. She didn't raise her voice, but the sheer command in her tone made Leo flinch.
 
 "Yeah," Leo stammered, his defense mechanisms flaring up instantly. The fast-talking Newark street rhythm took over. "Look, I scrub the pans, I mop the deck. That's the deal. Nobody said nothin' about freezing my ass off before we even leave. Besides, I ain't looking to cause trouble. Just need to earn my keep."
 
-Morgan didn't blink. She stepped closer. The heavy thud of her boots against the steel deck was deliberate. Intimidating.
+She didn't blink. She stepped closer. The heavy thud of her boots against the steel deck was deliberate. Intimidating.
 
 "Shut your mouth," she ordered. "You speak when spoken to on this deck."
 
 Leo snapped his jaw shut. The air around him suddenly felt very thin.
 
-Morgan ran her eyes up and down his frame. Her expression tightened in disgust. "You weigh nothing. No muscle. No sea legs. A strong gust of wind is going to blow you right over the rail." She extended a gloved hand. "The contract. Hand it over before I throw you over the side myself."
+The woman ran her eyes up and down his frame. Her expression tightened in disgust. "I'm First Mate Thorne. And you weigh nothing. No muscle. No sea legs. A strong gust of wind is going to blow you right over the rail." She extended a gloved hand. "The contract. Hand it over before I throw you over the side myself."
 
 Leo fumbled with the zipper of his duffel bag. His fingers were numb from the cold, clumsy and slow. He finally pulled out the crumpled "Articles of Employment" and handed it over, trying to avoid brushing his knuckles against her heavy leather gloves.
 
-Morgan snatched the paper. She scanned it quickly, her sharp eyes flicking across the text in the dim sodium light.
+Thorne snatched the paper. She scanned it quickly, her sharp eyes flicking across the text in the dim sodium light.
 
 Leo shifted his weight from foot to foot. He remembered skimming the document back in the dimly lit recruiting office. He had seen the sign-on bonus and the route. He had completely glossed over the "F-Designation" clauses, assuming it was just standard maritime legal jargon. He didn't care what the fine print said. He just needed the transport.
 
-"Leo," Morgan read aloud, her voice dripping with condescension. "Super-Greenhorn. You are the lowest entity on this vessel. You do not exist outside of your duties. You cook the calories. You clean the filth. You stay out of the way." She folded the paper and shoved it into her heavy coat pocket. "And if you mess up, you put it right."
+"Leo," Thorne read aloud, her voice dripping with condescension. "Super-Greenhorn. You are the lowest entity on this vessel. You do not exist outside of your duties. You cook the calories. You clean the filth. You stay out of the way." She folded the paper and shoved it into her heavy coat pocket. "And if you mess up, you put it right."
 
 "Put it right?" Leo asked, his brow furrowing. "Like, docked pay?"
 
-Morgan let out a short, humorless breath. "Something like that. You don't have pay to dock. You have debts to settle. We collect in other ways."
+Thorne let out a short, humorless breath. "Something like that. You don't have pay to dock. You have debts to settle. We collect in other ways."
 
 A heavy, metallic groan echoed from the belly of the ship. The main deck vibrated beneath Leo's thin sneakers. Someone was coming up from the hold.
 
-"Ox!" Morgan barked without turning around.
+"Ox!" Thorne barked without turning around.
 
-The hatch swung open with a violent clang. Out stepped the Deck Boss.
+The hatch swung open with a violent clang. Out stepped a towering figure.
 
 Leo's breath caught in his throat.
 
-"Ox" Boudreaux was massive. She stood well over six feet, her shoulders broad enough to eclipse the harsh dock lights behind her. Thick, heavy scarring tracked up the side of her neck, disappearing under a sweat-stained bandana. Her arms were corded with raw, functional muscle, bursting from the rolled-up sleeves of her flannel shirt.
+The woman—Ox, apparently—was massive. She stood well over six feet, her shoulders broad enough to eclipse the harsh dock lights behind her. Thick, heavy scarring tracked up the side of her neck, disappearing under a sweat-stained bandana. Her arms were corded with raw, functional muscle, bursting from the rolled-up sleeves of her flannel shirt.
 
 She loomed over Leo. The Authority Gap was immediate and profound. Leo was five-foot-nine and wiry. Ox looked like she could snap his spine with one hand. She possessed an unapologetic, hyper-masculine dominance that completely short-circuited Leo's brain. The sheer scale of her frame, the casual display of physical power, made him feel instantly, deeply vulnerable.
 
 Ox sneered, revealing a gold canine. "This the new meat?" Her voice was a rough, gravelly rumble that vibrated right through Leo's chest.
 
-"Unfortunately," Morgan said coldly. "Show the rat his bunk. Make sure he understands the rules before the engines turn over. I want him processing the inventory in an hour."
+"Unfortunately," Thorne said coldly. "Show the rat his bunk. Make sure he understands the rules before the engines turn over. I want him processing the inventory in an hour."
 
-Ox didn't reply to Morgan. She just stared down at Leo. She invaded his personal space, stepping so close he could smell the stale sweat, industrial grease, and chewing tobacco radiating off her.
+Ox didn't reply to Thorne. She just stared down at Leo. She invaded his personal space, stepping so close he could smell the stale sweat, industrial grease, and chewing tobacco radiating off her.
 
 "Grab your bag," Ox commanded. "Follow."
 
