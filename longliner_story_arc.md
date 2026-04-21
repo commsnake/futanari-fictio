@@ -2,7 +2,7 @@
 
 **Vibe:** Gritty Blue-Collar, High Seas Isolation, Intense Power Exchange.
 **Focus:** Futa-on-Male Dynamics, Male Ego Subversion, MPreg (Book 3).
-**Core Premise:** "Leo," a young male fresh out of the foster system, needs a cheap transport down the coast to start a new life. He strikes a deal with the crew of a 60ft Tuna Longliner: free passage in exchange for cooking all meals and doing grunt work. The catch? The entire five-person crew are imposing Futanari, and the contract stipulates that any mistakes or disruptions caused by the "Super-Greenhorn" must be "put right" through absolute, unquestioning submission.
+**Core Premise:** "Leo," a young male fresh out of the foster system, needs a cheap transport down the coast to start a new life. He strikes a deal with the crew of a 60ft Tuna Longliner: free passage in exchange for cooking all meals and doing grunt work. The catch? The entire five-person crew are imposing Futanari, and he is forced to sign a draconian "Articles of Employment" contract before boarding. This explicit pre-consent stipulates that any mistakes or disruptions caused by the "Super-Greenhorn" must be "put right" through absolute, unquestioning physical submission, framing all future dominance as Consensual Non-Consent (CNC).
 
 ---
 
@@ -12,21 +12,21 @@
 **Hierarchy Encountered:** Deckhand A ("The Muscle") & The Deck Boss ("Lead Laborer").
 
 ### 9-Chapter Beats
-1. **Chapter 1: Boarding & The Bunk:** Leo boards the vessel, desperate and broke. He meets the massive, intimidating all-female (presenting) crew. He is assigned the loudest, wettest bunk near the engine room and is immediately put to work by the First Mate.
+1. **Chapter 1: Boarding, The Bunk, & The Safeword:** Leo boards the vessel, desperate and broke. He meets the massive, intimidating all-female (presenting) crew. Before departure, they establish a mandatory safeword (a specific hand gesture due to ship noise). He is assigned the loudest, wettest bunk near the engine room and is immediately put to work by the First Mate.
 2. **Chapter 2: The First Swell:** They hit high seas. Leo struggles immensely in the galley, trying to cook in 10-foot swells. He accidentally ruins a meal meant for the exhausted Deckhand A, spilling hot stew on the deck.
 3. **Chapter 3: The Contract Enforced:** The Deck Boss intercepts. She reminds Leo of the rule: "Upset the crew, put it right." Leo is dragged to the hold to clean the mess, where the Deck Boss and Deckhand A corner him.
 4. **Chapter 4: The Reveal in the Hold:** The harsh, industrial lighting of the fish hold sets the scene. The Futanari anatomy of both women is revealed. The shock triggers an intense "Authority Gap" (Physical), as Leo realizes he is entirely outmatched and trapped on the ocean.
-5. **Chapter 5: Putting it Right (Service):** The first erotic encounter. It focuses on the SER-05 trope. Leo is forced to use his mouth to "serve" Deckhand A as punishment for the ruined meal, learning the sheer scale of the Futanari anatomy.
+5. **Chapter 5: Putting it Right (Service):** The first erotic encounter. It focuses on the SER-05 trope. Leo is pinned to "serve" Deckhand A as punishment. Crucially, the narrative focuses on **The Turn**: Leo's internal realization that he is aroused by the submission and actively chooses not to use his safeword. The scene ends with mandatory Aftercare (water, grounding touch) to re-establish the CNC boundary.
 6. **Chapter 6: The Long Shift:** Days blur. Leo is exhausted by cooking, cleaning, and light deck labor. He begins to crave the intense, dominating attention of the Deck Boss, whose harsh instructions on the deck translate to harsh commands in the bunk.
 7. **Chapter 7: The "Money" Mishap:** During a massive tuna catch, Leo gets in the way of a high-tension line, nearly causing an accident. The Deck Boss is furious.
-8. **Chapter 8: The Deck Boss Claims Her Due:** To "put right" the dangerous mistake, the Deck Boss claims Leo in his narrow bunk. The scene focuses on the Missionary position adapted for M/Futa, breaking down Leo's lingering ego and forcing him to accept his physical inferiority.
+8. **Chapter 8: The Deck Boss Claims Her Due:** To "put right" the dangerous mistake, the Deck Boss claims Leo in his narrow bunk. The scene focuses on the Missionary position adapted for M/Futa, breaking down Leo's lingering ego. His internal monologue explicitly confirms his surrender. The Deck Boss provides gruff but thorough Aftercare afterward, cementing the trust.
 9. **Chapter 9: The Harbor Approach:** Book 1 ends as they approach the first port for offloading. Leo has paid his physical debts to the deck crew, but he realizes he doesn't want to get off the boat. The isolation of the sea has become his new, twisted sanctuary.
 
 ---
 
 ## Book 2: The Night Watch (The First Mate & The Engineer)
 
-**Focus Tropes:** CNC-Lite (CNC-07), The Obsessive Claim (DRK-11), The Wheelbarrow Position (Advanced).
+**Focus Tropes:** CNC-Lite (CNC-07 - KDP Safe via Internal Monologue/Safeword protocols), The Obsessive Claim (DRK-11), The Wheelbarrow Position (Advanced).
 **Hierarchy Encountered:** The First Mate ("Second-in-Command") & The Engineer ("Technical Specialist").
 
 ### 9-Chapter Beats
