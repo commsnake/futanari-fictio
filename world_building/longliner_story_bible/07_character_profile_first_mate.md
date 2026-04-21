@@ -9,12 +9,14 @@
 > **AI INSTRUCTION ON ANATOMY & MEASUREMENTS:**
 > The exact measurements below (Breast Size, Penis Size, etc.) are strictly for your internal reference to accurately guide sensory and physical descriptions (e.g., determining if a character is "heavy", "thick", "petite", or "imposing"). **Do NOT explicitly state the exact numerical measurements (inches, cup sizes) in the generated prose**, with the exception of height. Instead, use evocative, 'Show, Don't Tell' descriptions of how their body moves and interacts with the environment or other characters.
 
+* **Age:** 34
 * **Height:** 6'1"
 * **Build/Body Type:** Lean, athletic, and severely toned. Moves with a predatory, calculating grace.
 * **Breast Size:** 34B, firm and understated *(Internal Reference Only)*
 * **Penis Size:** 8.0 inches, slender but dense *(Internal Reference Only)*
 * **Face/Hair/Eyes:** Sharp, angular features. Jet-black hair tied back in a severe, no-nonsense bun. Dark, analyzing eyes that track every movement on deck.
 * **Distinctive Marks:** A precise, surgical-looking scar running along her jawline. Always wears meticulously maintained gear, contrasting with the grime of the ship.
+* **Fashion Sense/Dress Preference:** Meticulously clean functional gear. Tactical dark colors, tight-fitting layers that don't restrict her movement but emphasize her sharp, rigid posture.
 
 ## 3. Voice & Dialogue Anchor (Show, Don't Tell)
 * **Speech Rhythm:** Sharp, clipped, and deeply cynical. She uses silence as a weapon, letting others talk themselves into corners. Never raises her voice; uses a chilling, quiet intensity.
@@ -31,3 +33,8 @@
 * **Core Wound:** A background of systemic failure, perhaps an elite career derailed by a technicality. She craves order and flawless execution to an obsessive degree.
 * **False Belief:** She believes that people are inherently flawed machinery that must be tightly controlled and managed through fear and strict adherence to rules.
 * **Vulnerability Trigger:** Chaos or unpredictability. When the storm hits in Book 2, she relies heavily on asserting hyper-control over Leo to anchor her own anxiety.
+* **Sexual Preference:** Psychological Dominant. She is intensely aroused by fear, strict obedience, and the systematic breaking down of resistance. She prefers cold, calculating scenarios (like the Night Watch Tryst) over raw physical brawling.
+* **Preferred Sexual Positions:** The Wheelbarrow Position (Advanced), and Edge-of-bed psychological control.
+* **Preferred Oral Position:** Commanding standing oral service.
+* **Background/Vibe:** Sharp, calculating, perhaps of West Coast/Pacific Northwest logging or fishing background. She uses psychological pressure as much as physical intimidation.
+* **Grounding Location:** Astoria, Oregon.
