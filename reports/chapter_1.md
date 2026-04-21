@@ -1,16 +1,24 @@
-The coastal chill of Barnegat Light gnawed through the thin cotton of Leo’s oversized hoodie. It was three in the morning. Bleak, grey, and thick with the smell of rotting bait and diesel exhaust. He stood at the edge of the docks, his shoulders hunched, shivering violently as the salty wind off the Atlantic cut straight to his bones.
+The coastal chill of Barnegat Light gnawed through the thin cotton of Leo’s oversized hoodie. It was three in the morning. Bleak, grey, and thick with the smell of rotting bait and diesel exhaust. He stood at the edge of the docks, his chest heaving, lungs burning from the frantic sprint away from his apartment. The salty wind off the Atlantic cut straight to his bones, but the adrenaline still roaring in his ears kept him warm.
 
-He clutched his worn canvas duffel bag to his chest like a shield. It held everything he owned. Two pairs of jeans, a few shirts, and a toothbrush. Behind him lay the mainland. Behind him lay a fifteen-thousand-dollar debt to a vicious Newark syndicate, a mistake that had a brutal expiration date. Ahead of him sat the only escape he could afford.
+He clutched his worn canvas duffel bag to his chest like a shield. It held everything he owned. Two pairs of jeans, a few shirts, and a toothbrush. Behind him lay the mainland. Behind him lay a fifteen-thousand-dollar debt to a vicious Newark syndicate, and the heavy thud of boots kicking in his front door.
+
+He dug his free hand into his pocket, his thumb brushing against the jagged edge of his cracked smartphone. The digital signature on the *Articles of Employment* was his golden ticket.
+
+*Ten thousand dollars, cash in hand at the dock.*
+
+That was the plan. Find the Captain, flash the email, grab the stack of bills, and vanish into the pre-dawn fog toward the nearest Greyhound station. He wasn't getting on any boat.
+
+He scanned the docks, his eyes locking onto his target.
 
 *The Maiden's Mast.*
 
 She was an F-Class pelagic longliner, sixty feet of rusted steel and imposing maritime engineering. She looked less like a fishing boat and more like a floating prison. Industrial sodium lights from the dock cast long, ugly shadows across her hull. Ice machines hummed aggressively. Heavy ropes as thick as Leo’s forearms secured her to the iron cleats.
 
-Leo swallowed hard. The metallic tang of fear coated the back of his throat. He had grown up bouncing between group homes, always looking for the exits, always calculating the fastest route to the door. Out there, on the open water, there were no doors. But the Newark gang would put a bullet in his kneecap if he stayed on land.
+Leo swallowed hard. The metallic tang of fear coated the back of his throat. He had grown up bouncing between group homes, always looking for the exits, always calculating the fastest route to the door. Out there, on the open water, there were no doors.
 
-He tightened his grip on the duffel. "Just a boat ride down the coast," he muttered, his voice barely audible over the screeching of gulls and the slapping waves. "Ride it to Atlantic City. Jump ship at the port. Disappear."
+He tightened his grip on his phone. "Just grab the cash and go," he muttered, his voice barely audible over the screeching of gulls and the slapping waves. "Don't even cross the gangway."
 
-He stepped toward the vessel. His cheap sneakers slipped on the slick, brine-coated metal of the gangway. He caught the rusted railing just in time, his knuckles turning white. The freezing metal bit into his skin, a sharp reminder of his reality.
+He stepped toward the vessel, scanning the main deck for someone who looked like they held the purse strings. His cheap sneakers slipped on the slick, brine-coated metal of the pier.
 
 "Watch your step, Greenhorn."
 
@@ -24,27 +32,39 @@ She wore heavy maritime weather-gear, the thick yellow rubber stained with dark 
 
 "You the galley rat the Old Man signed?" she asked. She didn't raise her voice, but the sheer command in her tone made Leo flinch.
 
-"Yeah," Leo stammered, his defense mechanisms flaring up instantly. The fast-talking Newark street rhythm took over. "Look, I scrub the pans, I mop the deck. That's the deal. Nobody said nothin' about freezing my ass off before we even leave. Besides, I ain't looking to cause trouble. Just need to earn my keep."
+"Yeah," Leo stammered, his defense mechanisms flaring up instantly. He stayed on the dock, refusing to step onto the gangway. "Look, I got the email. I signed the PDF. I'm just here for the sign-on bonus. Ten grand, cash. Like the ad said."
 
-She didn't blink. She stepped closer. The heavy thud of her boots against the steel deck was deliberate. Intimidating.
+She didn't blink. She stepped closer to the rail, the heavy thud of her boots against the steel deck deliberate. Intimidating.
 
-"Shut your mouth," she ordered. "You speak when spoken to on this deck."
+"Shut your mouth," she ordered. "You speak when spoken to."
 
 Leo snapped his jaw shut. The air around him suddenly felt very thin.
 
-The woman ran her eyes up and down his frame. Her expression tightened in disgust. "You will address me as First Mate, and nothing else. And you weigh nothing. No muscle. No sea legs. A strong gust of wind is going to blow you right over the rail." She extended a gloved hand. "The contract. Hand it over before I throw you over the side myself."
+The woman ran her eyes up and down his frame. Her expression tightened in disgust. "You will address me as First Mate, and nothing else. And you weigh nothing. No muscle. No sea legs. A strong gust of wind is going to blow you right over the rail." She extended a gloved hand. "The contract. Let me see the digital signature."
 
-Leo fumbled with the zipper of his duffel bag. His fingers were numb from the cold, clumsy and slow. He finally pulled out the crumpled "Articles of Employment" and handed it over, trying to avoid brushing his knuckles against her heavy leather gloves.
+Leo hesitated. He glanced over his shoulder. At the far end of the dock, two dark sedans pulled up near the fish market, headlights cutting through the fog. The Newark gang. They had tracked him.
 
-The First Mate snatched the paper. She scanned it quickly, her sharp eyes flicking across the text in the dim sodium light.
+Panic seized him. He fumbled in his pocket, pulling out his cracked phone. His fingers were numb from the cold, clumsy and slow. He pulled up the PDF and held the phone out toward her, his hand shaking.
 
-Leo shifted his weight from foot to foot. He remembered skimming the document back in the dimly lit recruiting office. He had seen the sign-on bonus and the route. He had completely glossed over the "F-Designation" clauses, assuming it was just standard maritime legal jargon. He didn't care what the fine print said. He just needed the transport.
+The First Mate snatched the phone right out of his grip.
 
-"Leo," the First Mate read aloud, her voice dripping with condescension. "Super-Greenhorn. You are the lowest entity on this vessel. You do not exist outside of your duties. You cook the calories. You clean the filth. You stay out of the way." She folded the paper and shoved it into her heavy coat pocket. "And if you mess up, you put it right."
+"Hey!" Leo protested, taking an involuntary step forward onto the slick metal of the gangway to reach for it.
 
-"Put it right?" Leo asked, his brow furrowing. "Like, docked pay?"
+She held it out of his reach, scanning the screen with sharp eyes in the dim sodium light.
 
-The First Mate let out a short, humorless breath. "Something like that. You don't have pay to dock. You have debts to settle. We collect in other ways."
+"Leo," the First Mate read aloud, her voice dripping with condescension. "Super-Greenhorn. You are the lowest entity on this vessel. You do not exist outside of your duties. You cook the calories. You clean the filth. You stay out of the way." She tossed the phone back at him. Leo scrambled to catch it, nearly dropping it over the side.
+
+"And if you mess up, you put it right."
+
+"Yeah, whatever," Leo said, his eyes darting back to the sedans. Doors were opening. Men were getting out. "The cash. Where's the money? I need it now."
+
+The First Mate let out a short, humorless breath. "The money is locked in the Old Man's safe. It gets disbursed when we hit open water. Not a second before. You want the cash? You get on the boat."
+
+Leo's heart hammered against his ribs. His flawless plan had just shattered. He looked back at the dock. The men were walking toward the piers, scanning the boats. They were less than a hundred yards away. If he ran now, they would catch him before he made it past the ice houses.
+
+"Get on board, or get off my dock," the First Mate ordered.
+
+Leo didn't have a choice. The trap had closed. He stepped fully onto the gangway, crossing over the black water and stepping onto the vibrating steel deck of the *Maiden's Mast*.
 
 A heavy, metallic groan echoed from the belly of the ship. The main deck vibrated beneath Leo's thin sneakers. Someone was coming up from the hold.
 
@@ -66,7 +86,7 @@ Ox didn't reply to her. She just stared down at Leo. She invaded his personal sp
 
 "Grab your bag," Ox commanded. "Follow."
 
-Leo didn't argue. He couldn't. His sarcastic shield had completely crumbled. He followed the massive Deck Boss across the slick deck and toward a narrow, rust-edged hatch leading below. He moved carefully, his eyes darting to the towering cranes and thick ropes, the alien machinery of his new, inescapable world.
+Leo didn't argue. He couldn't. His sarcastic shield had completely crumbled, and the threat of the men on the dock pushed him forward. He followed the massive Deck Boss across the slick deck and toward a narrow, rust-edged hatch leading below. He moved carefully, his eyes darting to the towering cranes and thick ropes, the alien machinery of his new, inescapable world.
 
 The moment he stepped into the stairwell, the environment violently shifted. The freezing coastal air vanished, replaced by sweltering, oppressive heat. Dim, flickering fluorescent lights cast an awful, jaundiced glow over the peeling paint of the bulkheads.
 
@@ -104,7 +124,7 @@ Leo stared at her, wide-eyed. Panic clawed at his throat. "Handling me? What are
 
 "Double-tap the shoulder," Ox repeated, ignoring his outburst. "That's the safeword. You use it, we stop. You don't use it, we take whatever we want. Understand?"
 
-Leo realized standard verbal protests meant absolutely nothing in this environment. The contract he had signed without reading was a trap. The realization hit him with sickening clarity. He wasn't just an employee. He was property. He nodded slowly, his eyes locked onto hers.
+Leo realized standard verbal protests meant absolutely nothing in this environment. The contract he had signed on his phone without reading was a trap. The realization hit him with sickening clarity. He wasn't just an employee. He was property. He nodded slowly, his eyes locked onto hers.
 
 "I understand," Leo whispered, his voice trembling.
 

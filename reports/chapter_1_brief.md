@@ -15,54 +15,55 @@ Chapter 1: Boarding, The Bunk, & The Safeword
 Gritty Blue-Collar Romance • Dark Futanari • Forced Proximity
 
 ## 4. Plot Summary (Verbatim)
-Leo boards the vessel, desperate and broke. He meets the massive, intimidating all-female (presenting) crew. Before departure, they establish a mandatory safeword (a specific hand gesture due to ship noise). He is assigned the loudest, wettest bunk near the engine room and is immediately put to work by the First Mate.
+Leo arrives at the docks fleeing the gang, intending to grab the $10k cash sign-on bonus and run. He meets the massive, intimidating all-female (presenting) crew. His plan fails as the First Mate corners him, verifying his digital contract on his phone, and the sheer physical intimidation of the Deck Boss forces him onto the ship. Before departure, they establish a mandatory safeword (a specific hand gesture due to ship noise). He is assigned the loudest, wettest bunk near the engine room and is immediately put to work.
 
 ## 5. Plot Beats (20–25 beats)
-1. Leo arrives at the Barnegat Light docks, shivering in the coastal chill.
+1. Leo arrives at the Barnegat Light docks, breathless from fleeing his apartment.
 2. He locates the F-Class Longliner, *The Maiden's Mast*, observing its rusted, imposing structure.
-3. Leo hesitates, clutching his worn duffel, anxiety spiking about his $15,000 gang debt.
-4. He crosses the gangway, his cheap sneakers slipping on the slick metal.
-5. First Mate Morgan Thorne intercepts him on the main deck, radiating cold authority.
-6. Morgan aggressively inspects Leo, mocking his lack of sea legs and frail build.
-7. Leo tries to deflect with Newark slang, but Morgan shuts him down immediately.
-8. Morgan demands the signed "Articles of Employment" contract.
-9. Leo hands it over, recalling how he skimmed the "F-Designation" clauses.
-10. Morgan formally accepts the contract, emphasizing the "Super-Greenhorn" title.
-11. The Deck Boss, "Ox" Boudreaux, emerges from the hold, a massive, intimidating presence.
-12. Ox looms over Leo, her sheer size creating a profound Authority Gap (Physical).
-13. Morgan instructs Ox to show the "galley rat" his bunk.
-14. Ox leads Leo down into the belly of the ship, the noise and heat escalating.
-15. The claustrophobia of the lower decks hits Leo, triggering his Vulnerability Trigger.
-16. Ox assigns him a cramped, wet bunk vibrating aggressively against the engine room bulkhead.
-17. Before leaving, Ox violently grabs Leo's shoulder, pinning him.
-18. Ox enforces the visual safeword protocol: a double-tap to the dominant shoulder, citing engine noise.
-19. Leo, terrified and confused, agrees, realizing standard verbal protests mean nothing here.
-20. Ox drops him and orders him to the galley immediately.
-21. The engines roar to life; the ship detaches from the dock.
-22. Leo realizes the trap: he's trapped on the ocean, the isolation setting in.
-23. The chapter ends with Leo frantically trying to figure out the galley equipment as the first swells hit.
+3. Leo clutches his phone, his plan clear: find the Captain, get the $10k cash bonus, and run to the bus station.
+4. He approaches the gangway, his cheap sneakers slipping on the slick metal.
+5. A tall, imposing woman (First Mate Thorne) intercepts him on the main deck, radiating cold authority.
+6. Thorne aggressively inspects Leo, mocking his lack of sea legs and frail build.
+7. Leo tries to deflect with Newark slang, demanding the cash bonus he was promised.
+8. Thorne shuts him down, demanding to see the digitally signed "Articles of Employment".
+9. Leo pulls out his cracked phone and shows her the signature on the PDF.
+10. Thorne formally accepts him, emphasizing the "Super-Greenhorn" title and that his "cash" is locked in the Captain's safe until they hit open water.
+11. Leo panics; his escape plan is ruined, and he hears dockworkers (or gang members) shouting in the distance. He has no choice but to board.
+12. The Deck Boss, Ox, emerges from the hold, a massive, intimidating presence.
+13. Ox looms over Leo, her sheer size creating a profound Authority Gap (Physical).
+14. Thorne instructs Ox to show the "galley rat" his bunk.
+15. Ox leads Leo down into the belly of the ship, the noise and heat escalating.
+16. The claustrophobia of the lower decks hits Leo, triggering his Vulnerability Trigger.
+17. Ox assigns him a cramped, wet bunk vibrating aggressively against the engine room bulkhead.
+18. Before leaving, Ox violently grabs Leo's shoulder, pinning him.
+19. Ox enforces the visual safeword protocol: a double-tap to the dominant shoulder, citing engine noise.
+20. Leo, terrified and confused about the "handling" comment, agrees, realizing standard verbal protests mean nothing here.
+21. Ox drops him and orders him to the galley immediately.
+22. The engines roar to life; the ship detaches from the dock.
+23. Leo realizes the trap has snapped shut: he's trapped on the ocean, the isolation setting in.
+24. The chapter ends with Leo frantically trying to figure out the galley equipment as the first swells hit.
 
 ## 6. Scene Function
-Character introduction, World-building, Establishment of the Power Dynamic and Isolation, Implementation of the KDP CNC Shield (Safeword/Pre-consent).
+Character introduction, World-building, Establishment of the Power Dynamic and Isolation, Implementation of the KDP CNC Shield (Safeword/Pre-consent). Connecting the Prelude's desperate escape to the inescapable trap of the ship.
 
 ## 7. Previous Chapter Continuity
-N/A (This is Chapter 1)
+(Prelude) Leo signed the contract digitally on his cracked phone and fled his apartment via the fire escape to avoid the gang. He intends to get the $10,000 cash bonus at the dock and run away without getting on the boat.
 
 ## 8. Characters in This Chapter
 
 ### Leo
 * **Role in Story:** Protagonist (MMC) / "Super-Greenhorn"
-* **Appearance:** Worn-out oversized hoodie, cheap jeans, cheap sneakers. Shivering, trying to look smaller.
-* **Current Emotional State:** Desperate, anxious, relying on false bravado and sarcasm.
-* **Goals for This Scene:** Board the ship, secure passage away from Newark, avoid drawing attention.
-* **Behavioral Notes:** Quick, defensive speech. Stammers when intimidated. Avoids prolonged eye contact with the massive crew.
+* **Appearance:** Worn-out oversized hoodie, cheap jeans, cheap sneakers. Shivering, breathless, clutching his cracked phone and duffel.
+* **Current Emotional State:** Desperate, anxious, relying on false bravado. He is in "flight" mode.
+* **Goals for This Scene:** Get the $10k cash bonus, evade the gang, do NOT get on the boat.
+* **Behavioral Notes:** Quick, defensive speech. Stammers when intimidated. Constantly checking his surroundings for the gang.
 
 ### Morgan Thorne (First Mate)
 * **Role in Story:** Second-in-Command, Operations.
 * **Appearance:** Sharp, calculating, maritime weather-gear. Cold, piercing gaze.
 * **Current Emotional State:** Irritated by the greenhorn, strictly professional, authoritative.
-* **Goals for This Scene:** Verify Leo's contract, establish absolute dominance immediately.
-* **Behavioral Notes:** Speaks with chilling precision. Uses psychological pressure to dismantle Leo's Newark slang.
+* **Goals for This Scene:** Verify Leo's digital contract, trap him on the boat, establish absolute dominance immediately.
+* **Behavioral Notes:** Speaks with chilling precision. Demands to be called "First Mate". Uses psychological pressure to dismantle Leo's plans.
 
 ### "Ox" Boudreaux (Deck Boss)
 * **Role in Story:** Lead Laborer / Physical Enforcer.
@@ -76,35 +77,35 @@ N/A (This is Chapter 1)
 *   **Location specifics:** Barnegat Light, New Jersey docks; *The Maiden's Mast* main deck; Lower deck bunk area.
 *   **Light:** Harsh, utilitarian sodium lights on the dock; dim, flickering fluorescents below deck.
 *   **Temperature:** Freezing coastal chill above deck; sweltering, oppressive heat below.
-*   **Sounds:** Slapping waves, screeching gulls, the deafening, rhythmic roar of the marine diesel engines.
+*   **Sounds:** Slapping waves, screeching gulls, distant shouts, the deafening, rhythmic roar of the marine diesel engines.
 *   **Smells:** Salt spray, rotting bait, heavy diesel exhaust, industrial grease.
 *   **Textures:** Slick metal decking, coarse wet rope, vibrating steel bulkheads.
 *   **Mood of the space:** Imposing, isolating, industrial, unforgiving.
 
 ## 10. Main Source of Conflict
 * **Type:** Interpersonal / Environmental / Psychological
-* **How it escalates:** Leo's false bravado is systematically crushed by the sheer physical presence of the crew and the brutal reality of the ship's environment.
-* **What threatens to break or transform:** Leo's illusion of control; his belief that he can just "ride out" the trip.
+* **How it escalates:** Leo's plan to steal the bonus is systematically crushed by Thorne's strict rules and the sheer physical presence of Ox. The threat of the gang behind him forces him forward into the trap.
+* **What threatens to break or transform:** Leo's illusion of control; his belief that he can just "ride out" the trip or escape with the money.
 
 ## 11. Tone & Style Notes
 * **Prose tone:** Gritty, visceral, emphasizing sensory overwhelm and physical disparity.
-* **Dialogue style:** Asymmetrical. Leo uses quick, defensive slang; Morgan uses cold, precise commands; Ox uses blunt, intimidating threats.
-* **Pacing:** Starts slow and anxious, escalating into rapid, claustrophobic urgency once below deck.
-* **Stylistic constraints:** No purple prose. Focus on concrete nouns (diesel, rust, steel, swells). Vary sentence lengths to create a stuttering rhythm reflecting Leo's panic.
+* **Dialogue style:** Asymmetrical. Leo uses quick, defensive slang; Thorne uses cold, precise commands; Ox uses blunt, intimidating threats.
+* **Pacing:** Starts frantic (running from the gang), hits a psychological wall on the deck, then escalates into claustrophobic urgency below deck.
+* **Stylistic constraints:** No purple prose. Focus on concrete nouns (diesel, rust, steel, swells, cracked screen). Vary sentence lengths to create a stuttering rhythm reflecting Leo's panic.
 
 ## 12. Symbolism or Thematic Layer
-The transition from land (false freedom) to sea (absolute isolation). The rusting steel of the ship symbolizing the inescapable trap.
+The transition from land (false freedom) to sea (absolute isolation). The rusting steel of the ship symbolizing the inescapable trap. The cracked phone screen as his last connection to the mainland.
 
 ## 13. Continuity Considerations
 * **Personal Continuity (Immutable):** Leo is 5'9", lean. The crew are massive and physically superior.
-* **Personal Continuity (Mutable):** Leo starts cold on the dock, becomes sweaty and nauseous below deck.
+* **Personal Continuity (Mutable):** Leo is out of breath and sweating from his escape in the prelude. His phone is cracked.
 * **Environment/Location:** The shift from the open dock to the claustrophobic bunk room next to the engine.
-* **Story/Narrative:** The "Articles of Employment" contract is officially handed over. The visual safeword is established.
+* **Story/Narrative:** The digital contract on his phone is verified. The visual safeword is established. The $10k cash is revealed to be locked away.
 
 ## 14. Continuity Handover (For Next Chapter/Book)
 * **Physical State:** Leo is exhausted, nauseous, sweating, and trembling slightly from the engine vibrations and adrenaline.
 * **Environmental State:** In the cramped, loud galley. The ship is actively moving, hitting the first ocean swells.
-* **Inventory / Dress:** Wearing his hoodie and jeans, holding his duffel bag.
+* **Inventory / Dress:** Wearing his hoodie and jeans, holding his duffel bag and cracked phone.
 * **Emotional Baseline:** Panic and severe Authority Gap (Physical) realization. The "flight" response is actively suppressed by the lack of exits.
 * **Residual Tension Type:** High Anxiety to Impending Dread (Fear of the First Shift).
 
