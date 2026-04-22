@@ -24,6 +24,10 @@ async def main(input_filepath, output_filepath, voice="en-US-ChristopherNeural")
     print("Cleaning markdown formatting...")
     cleaned_text = clean_markdown(text)
 
+    output_dir = os.path.dirname(output_filepath)
+    if output_dir:
+        os.makedirs(output_dir, exist_ok=True)
+
     print(f"Generating audio to {output_filepath} using voice {voice}...")
     communicate = edge_tts.Communicate(cleaned_text, voice)
     await communicate.save(output_filepath)
