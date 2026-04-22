@@ -20,7 +20,7 @@ The heavy metal galley doors swung open with a violent clang.
 
 Leo jumped, his eyes flying open.
 
-Deckhand A—Inez, he remembered from the roster—stood in the doorway. She was dripping with salt spray, her heavy weather gear slick and dark. She smelled strongly of ozone and fresh fish blood. A toothpick was wedged in the corner of her wide, slightly manic grin, though her dark eyes were sharp and calculating. Despite the exhaustion radiating from her posture, she bounced lightly on her toes, a compact coil of fierce energy.
+A sailor he hadn't seen yet stood in the doorway. She was dripping with salt spray, her heavy weather gear slick and dark. She smelled strongly of ozone and fresh fish blood. A toothpick was wedged in the corner of her wide, slightly manic grin, though her dark eyes were sharp and calculating. Despite the exhaustion radiating from her posture, she bounced lightly on her toes, a compact coil of fierce energy.
 
 "Food. Now, greenhorn," she demanded, her voice loud and carrying the twangy slang of the Texas Gulf Coast over the engine noise. She stepped into the galley, pulling off her heavy gloves.
 
@@ -28,24 +28,24 @@ Startled and already off-balance, Leo scrambled toward the stove. He grabbed a h
 
 "Here," Leo mumbled, extending the bowl.
 
-Before Inez could take it, the ship crested another massive swell and plummeted into the trough. The deck dropped sickeningly.
+Before she could take it, the ship crested another massive swell and plummeted into the trough. The deck dropped sickeningly.
 
 Leo's cheap sneakers found no traction on the greasy floor grates. His feet went out from under him. He pitched forward.
 
 The heavy bowl slipped from his grasp.
 
-It shattered against the deck. Hot stew splattered violently outward. A large, boiling wave of the thick liquid flew directly toward Inez, splashing heavily across the bare skin of her outstretched hand.
+It shattered against the deck. Hot stew splattered violently outward. A large, boiling wave of the thick liquid flew directly toward the sailor, splashing heavily across the bare skin of her outstretched hand.
 
-"¡Mierda!" Inez hissed loudly, jerking her hand back. The hot liquid clung to her skin, causing an immediate, painful burn.
+"¡Mierda!" she hissed loudly, jerking her hand back. The hot liquid clung to her skin, causing an immediate, painful burn.
 
 Leo hit the grating hard, his knees bruising against the metal. Dead silence descended on the galley, save for the ever-present rumble of the engines.
 
-Inez didn't shout. She slowly wiped the worst of the stew off her burned hand onto the leg of her heavy weather pants. When she looked up, the exhaustion had vanished from her posture entirely. It was replaced by a dark, predatory anger. Her manic grin was gone. The Authority Gap snapped sharply into focus; she might have been the shortest of the crew, but in that cramped galley, she was a terrifying force.
+The sailor didn't shout. She slowly wiped the worst of the stew off her burned hand onto the leg of her heavy weather pants. When she looked up, the exhaustion had vanished from her posture entirely. It was replaced by a dark, predatory anger. Her manic grin was gone. The Authority Gap snapped sharply into focus; she wasn't as massive as Ox or Morgan, but she was packed with wiry, explosive muscle, and in that cramped galley, she was a terrifying force.
 
 Leo's panic spiked white-hot. He scrambled backward on the floor, his breath hitching. He hadn't just made a mess. He had hurt her.
 
 "I-I'm sorry," Leo stammered, his Newark slang failing him entirely. "The ship rolled, I lost my footing, I—"
 
-Inez stepped toward him. She moved with frightening speed, cornering him against the lower cabinets before he could stand up. She loomed over him, her dark eyes flashing, the smell of fish blood and anger rolling off her.
+The sailor stepped toward him. She moved with frightening speed, cornering him against the lower cabinets before he could stand up. She loomed over him, her dark eyes flashing, the smell of fish blood and anger rolling off her.
 
-"You know, pendejo," Inez said softly, her voice dangerously calm. "You just made a very expensive mistake." She flexed her burned hand slightly, wincing, but her gaze never left his face. "And you owe me."
+"You know, pendejo," she said softly, her voice dangerously calm. "You just made a very expensive mistake." She flexed her burned hand slightly, wincing, but her gaze never left his face. "And you owe me."
