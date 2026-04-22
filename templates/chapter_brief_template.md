@@ -84,7 +84,9 @@ List symbols, motifs, emotions, or psychological themes that should be subtly wo
 (e.g., surrender, loss of control, rebirth, voyeurism, shame → pleasure transformation)
 
 ## 13. Continuity Considerations
-Strictly enforce rules from **KB-09 Continuity Enforcement Strategy**.
+Strictly enforce rules from **KB-09 Continuity Enforcement Strategy** and **KB-10 Spatial Blocking System**.
+* **Macro-Spatial Tracking:** Align character positions with the `timeline_manager.py` output. Characters must not jump between locations without explicit traversal.
+* **Micro-Spatial Tracking (Anti-Pretzel):** For physical/erotic scenes, explicitly track anchor points, orientation, and limb usage using the Kinematic Scene Blocking Matrix.
 * **Personal Continuity (Immutable):** Eye color, core traits cannot change without justification.
 * **Personal Continuity (Mutable):** Must logically follow previous scenes (injuries still hurt, clothing remains torn).
 * **Environment/Location:** Building layouts, furniture positions, and environmental damage must stay consistent.

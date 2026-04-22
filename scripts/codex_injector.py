@@ -1,6 +1,8 @@
 import re
 import os
 import argparse
+import subprocess
+import json
 
 def load_knowledge_base(kb_path):
     kb_data = {}
@@ -31,6 +33,30 @@ def find_entities_in_prompt(prompt_text, kb_keys):
             found_keys.append(key)
     return found_keys
 
+def extract_book_chapter_from_filename(filename):
+    """Attempt to extract Book and Chapter numbers from the filename."""
+    match = re.search(r'book(\d+).*?chapter(\d+)', filename.lower())
+    if match:
+        return match.group(1), match.group(2)
+    return None, None
+
+def get_timeline_context(book, chapter):
+    """Calls timeline_manager.py to get the timeline state."""
+    try:
+        # Assuming timeline_manager.py is in the same directory as codex_injector.py
+        manager_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'timeline_manager.py')
+        result = subprocess.run(
+            ['python3', manager_path, 'get-state', book, chapter],
+            capture_output=True, text=True, check=True
+        )
+        return result.stdout
+    except subprocess.CalledProcessError as e:
+        print(f"Warning: Failed to fetch timeline state. {e.stderr}")
+        return ""
+    except FileNotFoundError:
+        print("Warning: timeline_manager.py not found.")
+        return ""
+
 def inject_codex(prompt_file, kb_path, output_file):
     if not os.path.exists(prompt_file):
         print(f"Error: Prompt file {prompt_file} not found.")
@@ -38,6 +64,17 @@ def inject_codex(prompt_file, kb_path, output_file):
 
     with open(prompt_file, 'r') as f:
         prompt_text = f.read()
+
+    injected_prompt = prompt_text
+
+    # Extract Timeline Data
+    book, chapter = extract_book_chapter_from_filename(os.path.basename(prompt_file))
+    if book and chapter:
+        print(f"Detected Book {book}, Chapter {chapter}. Injecting Timeline Data...")
+        timeline_context = get_timeline_context(book, chapter)
+        if timeline_context:
+            injected_prompt += "\n\n### Injected Timeline & Macro-Spatial Context ###\n"
+            injected_prompt += timeline_context
 
     kb_data = load_knowledge_base(kb_path)
     if not kb_data:
@@ -47,10 +84,9 @@ def inject_codex(prompt_file, kb_path, output_file):
 
     if not found_entities:
         print("No dynamic entities found in prompt.")
-        injected_prompt = prompt_text
     else:
         print(f"Found entities: {', '.join(found_entities)}")
-        injected_prompt = prompt_text + "\n\n### Injected Codex Context ###\n"
+        injected_prompt += "\n\n### Injected Codex Context ###\n"
         for entity in found_entities:
             injected_prompt += f"\n--- Context for: {entity} ---\n"
             # Just take the first 1000 characters to avoid massive context bloat
