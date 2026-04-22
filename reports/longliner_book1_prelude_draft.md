@@ -61,7 +61,7 @@ A heavy slam echoed from the floor above him. Dust drifted down from the ceiling
 
 Leo looked at the cracked screen. The absurdity of the contract warred with the terrifying, immediate reality of the heavy boots upstairs. The contract was a piece of paper. The men upstairs were going to break his legs and throw him in the river.
 
-His foster-kid survival instincts, honed over years of bouncing between bad situations, kicked in. He rationalized it with desperate, flawless logic: He just needed the sign-on bonus. He would meet them at the docks, sign the digital copy to prove he was serious, take the ten grand in cash, and then run. He wouldn't even step foot on the boat. He'd take the money, pay the gang, and disappear.
+His street-kid survival instincts, honed over years of bouncing between bad situations, kicked in. He rationalized it with desperate, flawless logic: He just needed the sign-on bonus. He would meet them at the docks, sign the digital copy to prove he was serious, take the ten grand in cash, and then run. He wouldn't even step foot on the boat. He'd take the money, pay the gang, and disappear.
 
 They couldn't enforce a "Free Use" contract if he was halfway to Ohio on a Greyhound bus.
 
@@ -73,7 +73,7 @@ Leo jumped. He didn't think anymore. With a trembling index finger, he scrolled 
 
 He hit reply. He attached the signed document. He pressed send.
 
-The email swooshed away into the digital ether. It sat in his sent folder, a ticking time bomb he foolishly believed he could defuse.
+The email sent. It sat in his sent folder, a ticking time bomb he foolishly believed he could defuse.
 
 Leo shoved the phone into his pocket. He scrambled away from the door, grabbing the handle of his single, battered duffel bag. He didn't look back at the room. He slid the rusted window open, the cold coastal air hitting his face like a slap, and slipped out onto the fire escape just as the doorknob behind him began to violently rattle.
 
