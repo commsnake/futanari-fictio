@@ -51,3 +51,17 @@ Despite instructions to the contrary, AI naturally gravitates toward "telling" e
 
 *   **The AI Way (Telling):** "She was incredibly aroused and overwhelmed by the situation."
 *   **The Human Way (Showing):** "Her breath hitched, her palms slicking against the cool sheets as a low hum of heat settled deep in her abdomen." (As referenced in KB-02).
+
+## 8. "Flowery" or Overly Polished Phrasing
+
+While descriptive language is important, AI occasionally uses slightly elevated or overly polished phrasing that feels out of place or overly dramatic for the context.
+
+*   **The Tell:** Describing mundane actions or concepts with overly poetic language (e.g., describing debt interest as "compounded weekly, violently", or an email as "swooshed away into the digital ether").
+*   **Mitigation:** Ensure the descriptive language matches the tone and grittiness of the scene. Avoid overly dramatic adverbs or polished metaphors in gritty or realistic settings.
+
+## 9. Overly Dense Information Delivery
+
+Descriptions of rooms, characters, or items are sometimes overly dense and efficient, quickly extracting and presenting key details in a list-like manner. While efficient, this high information density can sometimes feel like AI summarization.
+
+*   **The Tell:** Rapid-fire, dense listing of items (e.g., "a moldy mattress on the floor, a single duffel bag holding everything he owned").
+*   **Mitigation:** Space out descriptions. Let the character interact with the environment naturally rather than listing the contents of a room all at once. Mix dense descriptions with active engagement.

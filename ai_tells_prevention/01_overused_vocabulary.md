@@ -30,6 +30,8 @@ The following words should be strictly avoided or used with extreme caution. AI 
 *   **Resonate**
 *   **Multifaceted**
 *   **Symbiotic**
+*   **Digital ether** (e.g., "swooshed away into the digital ether")
+*   **Swooshed** / **Swoosh**
 
 ## Generic Transition and Filler Phrases
 
