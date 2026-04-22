@@ -32,6 +32,13 @@ The algorithmic switch for content calibration.
 ## 3. The Heat Ladder (Pacing)
 Correlation between manuscript length and erotic density.
 
+### Chapter Length Rules & Novella Structure
+To align with standard KDP novella targets (25,000 to 35,000 words per book) while ensuring appropriate pacing for erotic escalation:
+- **Average Chapter Length**: ~1,100 words.
+- **Explicit Chapter Length**: 1,600+ words (Chapters containing Heat 7+ explicit scenes).
+  - *Crucial Rule*: In these extended chapters, **75% of the word count** must be dedicated entirely to the explicit scene and the 8-Phase Erotic Cycle, preventing rushed or summarized encounters.
+- **Book Structure**: Based on these length rules, a standard novella-length book in this repository requires approximately **20 to 24 chapters** to reach the 25k-35k word count target.
+
 - **Heat 1-3**: Erotic elements are subtextual or "Closed Door."
 - **Heat 4-6**: 1-2 key scenes per arc; focus on romantic buildup. **Futanari Specific:** The build-up must focus on hiding the anatomy, creating tension through forced proximity or near-miss "accidental reveals."
 - **Heat 7-9**: Explicit, phase-aware scenes (The 8-Phase Cycle). **Futanari Specific:** The "Reveal" acts as the Catalyst (Phase 3: Dynamic Shift). The shock must quickly pivot to intense arousal and acceptance.
