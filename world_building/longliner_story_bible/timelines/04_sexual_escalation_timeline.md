@@ -18,17 +18,17 @@ Established within the first 10% of the narrative (Book 1, Chapter 1).
 ### Book 1: The Galley Boy's Debt (The Ignition)
 *   **Early Chapters (Heat 4-6):** Physical proximity and psychological pressure. The focus is on hiding the Futanari anatomy while establishing the intense physical demands of the vessel. The power gap is felt before it is explicitly sexual.
 *   **The Catalyst (Chapter 4):** The Secret Reveal in the fish hold acts as **Phase 3: Dynamic Shift**. The shock pivots Leo from standard fear to a realization of absolute vulnerability.
-*   **The Culmination (Heat 7-9):** The escalation hits H-KIS Level 3 (Hardcore Dynamics). The explicit scenes (utilizing SER-05 Service tropes) are highly phase-aware, moving through the 8-Phase Erotic Cycle. Crucially, the focus is on **The Turn**—Leo's internal realization of arousal.
+*   **The Culmination (Heat 7-9):** The escalation hits H-KIS Level 3 (Hardcore Dynamics). The explicit scenes (utilizing SER-05 Service tropes) are highly phase-aware, moving through the 8-Phase Erotic Cycle. Crucially, the focus is on **The Turn**—Leo's internal realization of arousal. **[Act 1 Placeholder: Oral Service / 69 (Deckhand Preference)]** / **[Act 2 Placeholder: The Missionary Position - Pinning (Deck Boss Preference / KB-05)]** **[Research Integration: Emphasize the psychological barrier of the "guarding reflex" and the necessity of Anilingus/Rimming as a preparatory relaxant before accommodating the Anchor's size, moving from fear to arousal.]**
 *   **The Anchor:** Book 1 ends with mandatory **Phase 8: Aftercare**, fulfilling the Safety Promise and grounding the extreme acts.
 
 ### Book 2: The Night Watch (The Escalation)
-*   **The Core Shift (H-KIS Level 4):** The narrative moves into high-tension Edgeplay & CNC. The "Put it Right" clause is utilized aggressively by the Engineer and First Mate.
+*   **The Core Shift (H-KIS Level 4):** The narrative moves into high-tension Edgeplay & CNC. The "Put it Right" clause is utilized aggressively by the Engineer and First Mate. **[Act Placeholder: Reverse Cowgirl / Prone Bone (Engineer Preference)]** / **[Act Placeholder: Doggy Style / Cowgirl (First Mate Preference)]** **[Research Integration: Focus on the physical limitations and the necessity of thick lubrication during the Prone Bone/Reverse Cowgirl/Doggy Style/Cowgirl positions.]**
 *   **The Pressure Cooker:** The massive storm acts as an environmental catalyst, forcing extreme physical proximity and stripping away the last of Leo's ego.
-*   **The Peak (Heat 10):** High-saturation density. The erotic beats directly drive the survival plot. The 8-Phase cycle accelerates into intense, multi-partner orchestration (The Wheelbarrow Position), representing Leo's complete physical and psychological surrender to the crew.
+*   **The Peak (Heat 10):** High-saturation density. The erotic beats directly drive the survival plot. The 8-Phase cycle accelerates into intense, multi-partner orchestration, representing Leo's complete physical and psychological surrender to the crew. **[Act Placeholder: The Wheelbarrow Position]** **[Research Integration: Highlight the contrast between the overwhelming size/stamina of the partners and the intense requirement for pacing and diaphragmatic breathing during the Wheelbarrow position.]**
 
 ### Book 3: The Captain's Catch (The Payoff)
 *   **The Ultimate Claim (H-KIS Level 5):** The narrative shifts to Transgressive & Permanent dynamics. The Captain enacts the "Breeding Legacy" promised deep in the subtext of the employment contract.
-*   **The Act (MPG-01):** The Deep Water Claim (The Lotus Position) represents absolute, unescapable penetration and the ultimate transfer of power.
+*   **The Act (MPG-01):** The Deep Water Claim represents absolute, unescapable penetration and the ultimate transfer of power. **[Act Placeholder: The Lotus (Advanced Position - KB-06) / Prone Bone (Captain Preference)]**
 *   **The Shift (MPG-02):** The narrative transitions from harsh discipline to Gestation Worship. The crew's dynamic pivots from punishment to fierce protection of their communal vessel.
 
 ---
