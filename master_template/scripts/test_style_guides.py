@@ -30,4 +30,5 @@ def check_file(filepath):
             return True
 
 if __name__ == '__main__':
-    check_file('../style_guides/generate_style_guide_prompt.md')
+    check_file('style_guides/gritty_blue_collar_futanari.txt')
+    check_file('style_guides/contemporary_realistic.txt')

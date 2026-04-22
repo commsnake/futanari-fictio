@@ -8,18 +8,28 @@ def ensure_dir(dir_path):
 
 def sync_file(src_path, dest_path):
     print(f"Syncing {src_path} to {dest_path}")
-    with open(src_path, 'r', encoding='utf-8') as f:
-        content = f.read()
 
-    # Replace domain-specific terms with generic placeholders
-    # In this case, we replace "[Genre/Theme]", "[genre/theme]", "[Genre/Theme]", "[genre/theme]"
-    content = re.sub(r'\bFutanari\b', '[Genre/Theme]', content)
-    content = re.sub(r'\bfutanari\b', '[genre/theme]', content)
-    content = re.sub(r'\bFuta\b', '[Genre/Theme]', content)
-    content = re.sub(r'\bfuta\b', '[genre/theme]', content)
+    # If the file is a PDF, just copy it without attempting text replacement
+    if src_path.lower().endswith('.pdf'):
+        shutil.copy2(src_path, dest_path)
+        return
 
-    with open(dest_path, 'w', encoding='utf-8') as f:
-        f.write(content)
+    try:
+        with open(src_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        # Replace domain-specific terms with generic placeholders
+        # In this case, we replace "[Genre/Theme]", "[genre/theme]", "[Genre/Theme]", "[genre/theme]"
+        content = re.sub(r'\bFutanari\b', '[Genre/Theme]', content)
+        content = re.sub(r'\bfutanari\b', '[genre/theme]', content)
+        content = re.sub(r'\bFuta\b', '[Genre/Theme]', content)
+        content = re.sub(r'\bfuta\b', '[genre/theme]', content)
+
+        with open(dest_path, 'w', encoding='utf-8') as f:
+            f.write(content)
+    except UnicodeDecodeError:
+        print(f"Skipping text replacement for binary file {src_path}, just copying.")
+        shutil.copy2(src_path, dest_path)
 
 def main():
     root_dirs_to_sync = ['scripts', 'knowledge_base', 'ai_tells_prevention', 'marketing', 'reference', 'style_guides', 'templates']
