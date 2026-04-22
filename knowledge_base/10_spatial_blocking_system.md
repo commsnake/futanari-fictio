@@ -68,6 +68,20 @@ Characters do not teleport. When transitioning from one position to another (e.g
 ---
 
 ## 5. Prompting the AI with Macro/Micro Spatial Tracking
+## 4. Integrating with Environmental Schematics
+
+The KSBM is most effective when paired with a specific environmental schematic that provides rigid constraints (e.g., tight dimensions, specific props, environmental hazards).
+
+For the "Deep Water Haul" arc, the KSBM must be used in conjunction with the **[60' Longliner Schematic (12_longliner_schematic_blocking.md)](./12_longliner_schematic_blocking.md)**.
+
+### Example: Longliner Specific Matrix Integration
+*   **Location/Prop:** [Node: Bait Freezer Bulkhead] - Cold, humming steel wall. Slippery deck below.
+*   **Character A (Futanari Crew - Anchor):** Pinning Character B against the freezer. Weight bearing on deck, boots braced against the roll of the ship.
+*   **Character B (Leo - Pinned):** Back pressed flat against the freezing bulkhead. Minimal standing room.
+
+---
+
+## 5. Prompting the AI with KSBM
 
 When generating a scene or chapter brief, append this specific instruction to ensure spatial coherence across both levels:
 
