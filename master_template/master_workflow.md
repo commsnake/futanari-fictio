@@ -42,15 +42,6 @@ When you provide this feedback, the AI will execute the **Ripple Effect Protocol
 
 ## Integrating with the Standard Pipeline
 
-This flexible approach runs parallel to the standard 12-step pipeline outlined in the `futanari_repository_setup_guide.md`.
-
-### Advanced Pipeline Features
-The standard pipeline is augmented by advanced orchestration mechanisms adapted from the Auto Book Builder system:
-*   **Pre-Draft Validation:** Before drafting begins, the `Dossier Evaluation Squad` (ATLAS, PSYCH, NOVA, TEMPO, NICHE) evaluates the generated story ideas and world bibles. Drafting is strictly blocked if the score falls below the required threshold, forcing a repair loop to fix foundational structural or character logic flaws.
-*   **Formal State Tracking:** To improve continuity tracking beyond simple brief-to-brief handovers, the pipeline maintains three persistent artifacts generated during the drafting phase:
-    *   `Build_Log.md`: Tracks chronological events, causal impacts, and open risks.
-    *   `Continuity_Bible.md`: Tracks mutable character states, location states, object/inventory states, and open setups/payoffs.
-    *   `Session_Memory.md`: Tracks active threads, assumptions, and emotional pacing snapshots for the current session.
-*   **Audio Defect Review:** To strictly enforce the "Prose Burstiness & Sentence Structure" rules, a text-to-speech audio review loop is mandated as a QA step to identify cadence, rhythm, and clarity defects that visual reading often misses.
+This flexible approach runs parallel to the standard 10-step pipeline outlined in the `futanari_repository_setup_guide.md`.
 
 You might run Steps 1-5 automatically, stop the process to manually rewrite a plot point in the `story_ideas` document, trigger a Ripple Effect to update the AI's understanding, and then resume Steps 6-10 weeks later in a new session. The system will adapt to the files present in the directories.

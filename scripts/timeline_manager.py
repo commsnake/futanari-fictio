@@ -2,7 +2,8 @@ import os
 import argparse
 import re
 
-TIMELINE_DIR = "world_building/longliner_story_bible/timelines"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+TIMELINE_DIR = os.path.join(BASE_DIR, "world_building", "longliner_story_bible", "timelines")
 
 def get_state(book, chapter):
     """

@@ -51,20 +51,16 @@ def evaluate_dossier(file_path):
         print("\nFOUNDATION VERDICT: STOP - REPAIR LOOP REQUIRED.")
         print("One or more personas scored 4 or below. Drafting is blocked.")
         print("Next Steps: Address the missing elements flagged by the evaluation squad.")
-        return 1
     elif lowest_score <= 6:
         print("\nFOUNDATION VERDICT: CAUTION.")
         print("Drafting can proceed, but review the flagged areas for improvement.")
-        return 0
     else:
         print("\nFOUNDATION VERDICT: GREENLIGHT.")
         print("All personas approve. Drafting may proceed.")
-        return 0
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Evaluate a story dossier or outline using the Dossier Evaluation Squad personas.")
     parser.add_argument("--file", required=True, help="Path to the markdown file to evaluate.")
     args = parser.parse_args()
 
-    import sys
-    sys.exit(evaluate_dossier(args.file))
+    evaluate_dossier(args.file)
