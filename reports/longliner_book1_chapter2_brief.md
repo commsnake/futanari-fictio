@@ -32,14 +32,14 @@ They hit high seas. Leo struggles immensely in the galley, trying to cook in 10-
 15. He tries to hand her the bowl, but another violent swell hits the ship.
 16. Leo loses his footing on the greasy deck grates.
 17. The bowl slips from his grasp.
-18. Hot stew splatters across the deck and splashes onto Inez's heavy rubber boots.
-19. Dead silence in the galley, broken only by the engine rumble.
-20. Inez slowly looks down at the mess, then up at Leo.
-21. Her exhaustion vanishes, replaced by a dark, predatory anger.
-22. Leo stammers an apology, his panic spiking.
+18. Hot stew splatters across the deck, and a large portion lands directly on Inez's bare hand as she reaches out instinctively.
+19. Inez hisses in sudden pain, the hot liquid causing an immediate, painful—but non-serious—burn.
+20. Dead silence in the galley, broken only by the engine rumble.
+21. Inez slowly wipes her burned hand on her pants, her exhaustion vanishing, replaced by a dark, predatory anger.
+22. Leo stammers an apology, his panic spiking as he realizes he hasn't just made a mess, he's hurt her.
 23. Inez steps towards him, cornering him against the counter.
 24. She informs him that he just made a very expensive mistake.
-25. The chapter ends with Inez looming over him, preparing to enforce the rules.
+25. The chapter ends with Inez looming over him, preparing to enforce the rules and claim her 'debt'.
 
 ## 6. Scene Function
 Escalation of environmental conflict. Demonstrating Leo's incompetence in this new world. Setting up the first physical confrontation and the "put it right" enforcement.
@@ -75,7 +75,7 @@ Leo just entered the galley, exhausted, nauseous, and terrified after being forc
 
 ## 10. Main Source of Conflict
 * **Type:** Environmental / Interpersonal
-* **How it escalates:** Leo's struggle against the ocean's movement leads directly to his failure to serve Inez, triggering an immediate interpersonal threat.
+* **How it escalates:** Leo's struggle against the ocean's movement leads directly to his failure to serve Inez and accidentally burning her hand, triggering an immediate, severe interpersonal threat.
 * **What threatens to break or transform:** Leo's hope of flying under the radar; he is now directly in the crosshairs of a crew member.
 
 ## 11. Tone & Style Notes
@@ -85,7 +85,7 @@ Leo just entered the galley, exhausted, nauseous, and terrified after being forc
 * **Stylistic constraints:** Focus on concrete nouns related to the galley and the sea. Short, choppy sentences to reflect the ship's unpredictable motion.
 
 ## 12. Symbolism or Thematic Layer
-The loss of control. The spilling of the stew represents his inability to handle the environment, and the ensuing confrontation represents the inescapable consequences of his contract.
+The loss of control. The spilling of the stew and the resulting burn represents his inability to handle the environment, and the ensuing confrontation represents the inescapable, physical consequences of his contract.
 
 ## 13. Continuity Considerations
 * **Personal Continuity (Immutable):** Leo's lack of sea legs. Inez's volatility.
@@ -94,7 +94,7 @@ The loss of control. The spilling of the stew represents his inability to handle
 * **Story/Narrative:** The $10k is still locked away. The safeword rule (double tap) is in effect, though not used yet. The "put it right" rule is about to be invoked.
 
 ## 14. Continuity Handover (For Next Chapter/Book)
-* **Physical State:** Leo is exhausted, nauseous, slightly burned, and cornered. Inez is angry and imposing.
+* **Physical State:** Leo is exhausted, nauseous, slightly burned, and cornered. Inez is angry, imposing, and nursing a painful burn on her hand.
 * **Environmental State:** In the galley, with hot stew spilled on the deck. The ship is still pitching violently.
 * **Inventory / Dress:** Leo is in his stained hoodie/jeans. Inez is in her wet weather gear.
 * **Emotional Baseline:** Sheer terror. Leo realizes he has failed his very first task and is about to face the consequences.
