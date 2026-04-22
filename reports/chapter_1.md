@@ -122,7 +122,7 @@ Leo flinched.
 
 Leo stared at her, wide-eyed. Panic clawed at his throat. "Handling me? What are you talking about? I'm just here to cook! I signed on for passage and galley duty, nothing else."
 
-"Double-tap the shoulder," Ox repeated, ignoring his outburst. "That's the safeword. You use it, we stop. You don't use it, we take whatever we want. Understand?"
+"Double-tap the shoulder," Ox repeated, ignoring his outburst. "That's the safeword. You use it, we stop, back off, and get you water. You don't use it, you're consenting to whatever we decide to take. Understand?"
 
 Leo realized standard verbal protests meant absolutely nothing in this environment. The contract he had signed on his phone without reading was a trap. The realization hit him with sickening clarity. He wasn't just an employee. He was property. He nodded slowly, his eyes locked onto hers.
 
