@@ -105,7 +105,7 @@ The transition from land (false freedom) to sea (absolute isolation). The rustin
 ## 14. Continuity Handover (For Next Chapter/Book)
 * **Physical State:** Leo is exhausted, nauseous, sweating, and trembling slightly from the engine vibrations and adrenaline.
 * **Environmental State:** In the cramped, loud galley. The ship is actively moving, hitting the first ocean swells.
-* **Inventory / Dress:** Wearing his hoodie and jeans, holding his duffel bag and cracked phone.
+* **Inventory / Dress:** Wearing his hoodie and jeans, holding his cracked phone. His duffel bag was left on his bunk.
 * **Emotional Baseline:** Panic and severe Authority Gap (Physical) realization. The "flight" response is actively suppressed by the lack of exits.
 * **Residual Tension Type:** High Anxiety to Impending Dread (Fear of the First Shift).
 

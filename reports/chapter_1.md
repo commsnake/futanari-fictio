@@ -136,7 +136,7 @@ She backed away, the oppressive heat of her body leaving him shivering despite t
 
 Ox turned and walked heavily down the corridor, her massive boots echoing against the metal grating.
 
-Leo slid down the wall slightly, his legs shaking. He dropped his duffel bag onto the wet deck. He pressed his palms against his eyes, taking a deep, shuddering breath. The air tasted metallic and stale.
+Leo slid down the wall slightly, his legs shaking. He shoved his duffel bag onto the thin, stained mattress of his bunk to keep it out of the pooling water on the deck. He pressed his palms against his eyes, taking a deep, shuddering breath. The air tasted metallic and stale.
 
 A sudden, deafening roar tore through the ship. The marine diesel engines ignited. The entire vessel shuddered violently. The floor beneath him pitched sideways as the longliner detached from the dock.
 
