@@ -1,12 +1,23 @@
 # 01. The Vessel: The Maiden's Mast (F-Class Longliner)
 
-The setting of the story is an adapted 60-foot steel pelagic longliner named the *Maiden's Mast*, based on the real-world 60' Astor Longliner design.
+The setting of the story is an adapted 60-foot fiberglass pelagic longliner named the *Maiden's Mast*, based on the real-world 60' Astor Longliner design.
 
-## Technical Specifications
+## Technical Specifications & Capacities
 
-- **Vessel Type:** 60-foot Astor Longliner
-- **Power Generation:** John Deere 50 KW Generator
-- **Accommodations:** 6 crew berths
+- **Vessel Type:** 60-foot Astor Longliner (Fiberglass Hull)
+- **Dimensions:** 60' Length Over All (LOA) | 18' Breadth | 9' Draft
+- **Propulsion & Power:**
+  - Main Engine: 425HP Cummins
+  - Auxiliary Power: 50 KW John Deere Generator
+- **Capacities:**
+  - Fish Hold: 28,000 lbs
+  - Fuel: 5,700 gallons
+  - Freshwater: 400 gallons
+- **Deck & Gear:**
+  - 50-mile LP mono longline system
+  - 8,000-bait live wells
+  - 2.5-ton ice maker & 2.5-ton bait freezer
+- **Accommodations:** 6 crew berths, 1 captain's berth (wheelhouse), full deck-level galley, and washroom/head.
 
 ## The "F-Designation" (Futanari Refit)
 
