@@ -1,26 +1,28 @@
 import re
 
-def check_file(filepath):
-    # Using stems/roots where appropriate to catch plurals/participles
-    # e.g., 'delv' catches delve, delves, delving
-    # 'tapestr' catches tapestry, tapestries
-    tells = ['delv', 'tapestr', 'testament', 'delicate dance', 'intertwined',
-             'crescendo', 'symphon', 'palpable', 'myriad', 'journey']
+# Using stems/roots where appropriate to catch plurals/participles
+# e.g., 'delv' catches delve, delves, delving
+# 'tapestr' catches tapestry, tapestries
+TELLS = ['delv', 'tapestr', 'testament', 'delicate dance', 'intertwined',
+         'crescendo', 'symphon', 'palpable', 'myriad', 'journey']
 
+# Combine into a single regex with alternation
+# We use a capturing group around the stems to identify which one matched.
+TELLS_PATTERN = re.compile(r'\b(' + '|'.join(re.escape(tell) for tell in TELLS) + r')\w*\b', re.IGNORECASE)
+BANNED_CLEANUP_PATTERN = re.compile(r'Banned AI Tells:.*?\.', re.IGNORECASE | re.DOTALL)
+
+def check_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
-        # Added re.DOTALL so .*? matches across line breaks until it hits a period
-        # Note: Fixed the regex pattern string from the issue to just have \.
-        content = re.sub(r'Banned AI Tells:.*?\.', '', content, flags=re.IGNORECASE | re.DOTALL)
+        # Remove the "Banned AI Tells" section to avoid false positives
+        content = BANNED_CLEANUP_PATTERN.sub('', content)
 
         content = content.lower()
-        found = []
 
-        for tell in tells:
-            # Using \b to start at a word boundary, but allowing word characters \w* after the stem
-            if re.search(r'\b' + tell + r'\w*\b', content):
-                found.append(tell)
+        # findall returns the content of the capturing group (the stem) for each match.
+        # We use set() to get unique stems and sort them for consistent output.
+        found = sorted(list(set(TELLS_PATTERN.findall(content))))
 
         if found:
             print(f"FAILED: {filepath} contains banned tells: {found}")
