@@ -2,6 +2,23 @@ import re
 import os
 import argparse
 
+def validate_path(path, base_dir=None):
+    """
+    Validates that the path is within the base directory to prevent path traversal.
+    Defaults to the repository root as the base directory.
+    Uses realpath to resolve symlinks and commonpath to prevent sibling directory bypasses.
+    """
+    if base_dir is None:
+        # Assume repo root is the parent of the scripts directory
+        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+    real_path = os.path.realpath(path)
+    real_base = os.path.realpath(base_dir)
+
+    if os.path.commonpath([real_path, real_base]) != real_base:
+        raise ValueError(f"Access denied: {path} is outside of {base_dir}")
+    return real_path
+
 def load_knowledge_base(kb_path):
     kb_data = {}
     if not os.path.exists(kb_path):
@@ -32,6 +49,14 @@ def find_entities_in_prompt(prompt_text, kb_keys):
     return found_keys
 
 def inject_codex(prompt_file, kb_path, output_file):
+    try:
+        prompt_file = validate_path(prompt_file)
+        kb_path = validate_path(kb_path)
+        output_file = validate_path(output_file)
+    except ValueError as e:
+        print(f"Security Error: {e}")
+        return False
+
     if not os.path.exists(prompt_file):
         print(f"Error: Prompt file {prompt_file} not found.")
         return False
