@@ -74,7 +74,7 @@ The hatch swung open with a violent clang. Out stepped a towering figure.
 
 Leo's breath caught in his throat.
 
-The woman—Ox, apparently—was massive. She stood well over six feet, her shoulders broad enough to eclipse the harsh dock lights behind her. Thick, heavy scarring tracked up the side of her neck, disappearing under a sweat-stained bandana. Her arms were corded with raw, functional muscle, bursting from the rolled-up sleeves of her flannel shirt.
+The woman—Ox, apparently—was massive. She stood well over six feet, her shoulders broad enough to eclipse the harsh dock lights behind her. Thick, heavy scarring tracked up the side of her neck, disappearing under a sweat-stained bandana. Her arms were corded with raw, functional muscle, bursting from the rolled-up sleeves of her flannel shirt. Despite her terrifying, brawler-like build, the heavy fabric clung tightly across her chest, the undeniable swell of her breasts the only immediate confirmation that she was actually female.
 
 She loomed over Leo. The Authority Gap was immediate and profound. Leo was five-foot-nine and wiry. Ox looked like she could snap his spine with one hand. She possessed an unapologetic, hyper-masculine dominance that completely short-circuited Leo's brain. The sheer scale of her frame, the casual display of physical power, made him feel instantly, deeply vulnerable.
 
