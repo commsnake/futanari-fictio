@@ -13,7 +13,8 @@ To maintain organization across the automated pipeline, the root repository must
 *   **`style_guides/`**: Destination for genre analysis, trope mapping, and concrete nouns (`style_guide_*.md`, `concrete_nouns_*.txt`).
 *   **`cache/`**: Destination for auto-detected subgenre and trope research data (`research_*.txt`).
 *   **`story_ideas/`**: Destination for the generated 15-arc variations with stacked tropes and 14-beat Save the Cat structures (`story_ideas_*.md`).
-*   **`reports/`**: The primary output directory for generated content, including the world bible (`4_world_bible.md`), cast ledger (`3_cast_ledger.md`), chapter drafts (`chapter_*.md`), and finalized prose (`chapter_*_final_final.md`).
+*   **`briefs/`**: The primary output directory for generated chapter outlines and structural planning.
+*   **`drafts/`**: The primary output directory for generated prose drafts and finalized chapters.
 
 ### Individual Project Structure
 Once a story idea is selected and generated, it should be organized into its own dedicated project folder (e.g., `My_Futanari_Story_Book1/`) containing:

@@ -15,7 +15,7 @@ You do not need to execute all 10 steps of the primary pipeline (from OCR input 
 ### How to Resume Work
 When returning to a project or starting a new agent session, the AI is instructed (via `AGENTS.md`) to automatically assess the state of the repository.
 
-*   The AI will scan the directories (`story_ideas/`, `reports/`, `world_building/`, etc.).
+*   The AI will scan the directories (`story_ideas/`, `briefs/`, `drafts/`, `world_building/`, etc.).
 *   It will determine the last completed artifact (e.g., if a Cast Ledger exists but no World Bible, it knows step 6 is incomplete).
 *   It will prompt you with the likely next step to proceed.
 

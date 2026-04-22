@@ -1,4 +1,4 @@
-# Book 1, Prelude: The Contract in the Dark
+# Prelude: The Contract in the Dark
 
 The door was cheap composite wood, swelling with humidity and peeling at the bottom edge. It offered exactly zero protection.
 
@@ -73,7 +73,7 @@ Leo jumped. He didn't think anymore. With a trembling index finger, he scrolled 
 
 He hit reply. He attached the signed document. He pressed send.
 
-The email swooshed away into the digital ether. It sat in his sent folder, a ticking time bomb he foolishly believed he could defuse.
+The email was sent. It sat in his outbox, a ticking time bomb he foolishly believed he could defuse.
 
 Leo shoved the phone into his pocket. He scrambled away from the door, grabbing the handle of his single, battered duffel bag. He didn't look back at the room. He slid the rusted window open, the cold coastal air hitting his face like a slap, and slipped out onto the fire escape just as the doorknob behind him began to violently rattle.
 
