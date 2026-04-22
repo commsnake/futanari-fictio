@@ -43,7 +43,8 @@ These terms trigger AI-detection or break narrative immersion.
 ## 3. Stylistic Protocols (The "Style DNA")
 - **Show, Don't Tell**: Instead of "She was aroused," use "Her breath hitched, her palms slicking against the cool sheets as a low hum of heat settled deep in her abdomen."
 - **Deep POV**: Anchor every description to the physical sensations of the current POV character (`[ANCHOR]` or `[SEEKER]`).
-- **Male Gaze & Sexual Focus**: As the target audience is male, observations of characters should maintain a continuous sexual focus. Detail the physical attributes prominently, such as the size and movement of breasts (e.g., how they sway or settle), the shape of hips, and the fullness of lips. When female or [Genre/Theme] characters are nude, the narrative must hyper-focus on these specific [Genre/Theme] anatomical details and feminine curves.
+- **Male Gaze & Sexual Focus**: As the target audience is male, observations of characters should maintain a continuous sexual focus. Detail the physical attributes prominently, such as the size and movement of breasts (e.g., how they sway or settle), the shape of hips, and the fullness of lips.
+- **Nude & [Genre/Theme] Focus**: When female or [Genre/Theme] characters are nude, the narrative must hyper-focus on these specific [Genre/Theme] anatomical details and feminine curves.
 - **Short Interrogatives**: Use short, punchy questions or commands during high-intensity beats ("Look at me," "Do you want this?").
 - **No Summary Endings**: All chapters must end on a visceral beat or a cliffhanger, never a "Ultimately..." or "Combined bond" summary.
 
