@@ -4,11 +4,11 @@ Every sway of the vessel was accompanied by the deafening, relentless roar of th
 
 He dragged a trembling hand through his shaggy hair, trying to focus. He had to survive this shift. He had to keep his head down, make the food, and avoid giving the terrifying crew any excuse to enforce the brutal clauses of his contract.
 
-He grabbed a heavy, bolted-down pot, his movements erratic and clumsy. He began roughly chopping onions and carrots, trying to start a thick stew as the Captain’s meal requirements dictated. The physical labor of simply remaining upright while wielding a knife was exhausting. He had to lock his knees and brace his hips against the counter just to keep his balance.
+He grabbed a heavy, bolted-down pot, his movements erratic and clumsy. He began roughly chopping onions and carrots, trying to start a thick stew as the Captain’s meal requirements dictated. The physical labor of simply remaining upright while wielding a knife was exhausting. He had to lock his knees and brace his hips against the counter just to keep his balance, convinced they were steering directly into a hurricane.
 
-*Crash.*
+*Thump.*
 
-A ten-foot swell slammed into the hull. The deck pitched violently to starboard. Leo lost his footing, his hip slamming hard into the corner of the industrial stove. He hissed in pain, his hand flailing and brushing against a hot iron skillet left on a back burner.
+A moderate three-foot swell—routine for the seasoned crew, but a mountain of water to Leo's panicked senses—rolled under the hull. The deck pitched to starboard. Leo lost his footing, his hip slamming hard into the corner of the industrial stove. He hissed in pain, his hand flailing and brushing against a hot iron skillet left on a back burner.
 
 He jerked his hand away, a fresh sting of a minor burn adding to the misery. He didn't have time to stop. He couldn't stop. He turned back to the cutting board, gritting his teeth against the nausea and the pain.
 
@@ -28,7 +28,7 @@ Startled and already off-balance, Leo scrambled toward the stove. He grabbed a h
 
 "Here," Leo mumbled, extending the bowl.
 
-Before she could take it, the ship crested another massive swell and plummeted into the trough. The deck dropped sickeningly.
+Before she could take it, the ship crested another routine, rolling swell and dipped into the shallow trough. To Leo, the deck dropped sickeningly.
 
 Leo's cheap sneakers found no traction on the greasy floor grates. His feet went out from under him. He pitched forward.
 

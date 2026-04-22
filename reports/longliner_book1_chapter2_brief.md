@@ -12,16 +12,16 @@ Chapter 2: The First Swell
 Gritty Blue-Collar Romance • Dark Futanari • Forced Proximity
 
 ## 4. Plot Summary (Verbatim)
-They hit high seas. Leo struggles immensely in the galley, trying to cook in 10-foot swells. He accidentally ruins a meal meant for the exhausted Deckhand A, spilling hot stew on the deck.
+They hit open water. Leo struggles immensely in the galley, trying to cook in what he perceives as a violent storm, but are merely moderate three-foot swells. He accidentally ruins a meal meant for the exhausted Deckhand A, spilling hot stew on the deck.
 
 ## 5. Plot Beats (20–25 beats)
-1. The chapter opens with Leo clinging to the stainless steel counter in the galley as the ship violently pitches.
+1. The chapter opens with Leo clinging to the stainless steel counter in the galley as the ship pitches in the open water.
 2. He is actively fighting severe nausea, sweating through his cheap hoodie.
 3. The relentless, deafening roar of the marine diesel engines vibrates through the floor grates.
 4. He tries to review the Captain's meal requirements but struggles to focus.
 5. He gathers heavy, bolted-down pots and attempts to start a thick stew.
 6. The physical labor of balancing while chopping vegetables and handling raw meat exhausts him further.
-7. Ten-foot swells hit the hull, throwing him against the stove repeatedly.
+7. A moderate three-foot swell—which Leo perceives as a massive, violent wave—hits the hull, throwing him against the stove.
 8. He burns his hand slightly on a hot pan but doesn't have time to stop.
 9. Hours blur in a hazy, nauseating struggle against the ship's motion and the oppressive heat.
 10. He manages to finish a large pot of stew, feeling a brief, false sense of accomplishment.
