@@ -92,7 +92,9 @@ def main():
     print("Analyzing text...")
     analysis = analyze_text(text)
 
-    os.makedirs(os.path.dirname(args.output), exist_ok=True)
+    out_dir = os.path.dirname(args.output)
+    if out_dir:
+        os.makedirs(out_dir, exist_ok=True)
     build_style_guide(analysis, args.output)
 
 if __name__ == "__main__":
