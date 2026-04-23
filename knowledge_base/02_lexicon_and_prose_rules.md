@@ -36,7 +36,7 @@ These terms trigger AI-detection or break narrative immersion.
 - *Oh baby, so good, more please, take it all, hot and heavy.*
 
 ### High-Alarm AI Tells
-- *tapestry, realm, delve, nuanced, vibrant, dynamic, compelling, testament, in a world, in conclusion.*
+- *tapestry, realm, delve, nuanced, vibrant, dynamic, compelling, testament, intricate, leverage, optimize, facilitate, furthermore, moreover, unparalleled, in a world, in conclusion.*
 
 ---
 

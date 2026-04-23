@@ -33,6 +33,17 @@ The following words should be strictly avoided or used with extreme caution. AI 
 *   **Digital ether** (e.g., "swooshed away into the digital ether")
 *   **Swooshed** / **Swoosh**
 
+
+*   **Intricate**
+*   **Leverage**
+*   **Optimise** / **Optimize**
+*   **Facilitate**
+*   **Implementation**
+*   **Methodology**
+*   **Endeavour** / **Endeavor**
+*   **Utilisation** / **Utilization**
+*   **Unparalleled**
+
 ## Generic Transition and Filler Phrases
 
 AI often uses these phrases to link ideas together or open/close paragraphs. They add no real substance and bloat the word count.
@@ -43,7 +54,11 @@ AI often uses these phrases to link ideas together or open/close paragraphs. The
 *   **"In conclusion..."**
 *   **"Ultimately..."**
 *   **"As a reminder..."**
-*   **"Furthermore..."** / **"Moreover..."** (when overused)
+*   **"Furthermore..."** / **"Moreover..."** / **"Therefore..."** / **"Consequently..."** / **"Subsequently..."** / **"Nonetheless..."**
+*   **"It is important to note that..."**
+*   **"It should be mentioned that..."**
+*   **"One might argue that..."**
+*   **"It could be suggested that..."**
 *   **"Firstly..."** / **"Secondly..."**
 *   **"There are a few considerations..."**
 
@@ -57,6 +72,16 @@ AI tends to overstate the importance of standard actions or events, making the p
 *   **"Drives impact"**
 *   **"Cutting-edge"**
 *   **"Future-ready"**
+
+
+## Corporate/Business Jargon (Contextual Flag)
+
+While less common in fiction, if these appear in world-building docs or modern character dialogues unnecessarily, they flag as AI slop:
+
+*   **Streamline** (e.g., "streamline operations")
+*   **Synergies** / **Synergy**
+*   **Best-in-class**
+*   **Scalable**
 
 ## Copula Avoidance and "Feature" Words
 

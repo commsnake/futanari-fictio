@@ -5,7 +5,8 @@ def check_file(filepath):
     # e.g., 'delv' catches delve, delves, delving
     # 'tapestr' catches tapestry, tapestries
     tells = ['delv', 'tapestr', 'testament', 'delicate dance', 'intertwined',
-             'crescendo', 'symphon', 'palpable', 'myriad', 'journey']
+             'crescendo', 'symphon', 'palpable', 'myriad', 'journey',
+             'intricat', 'leverag', 'optimiz', 'optimis', 'facilitat', 'furthermore', 'moreover']
 
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
