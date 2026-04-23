@@ -1,3 +1,5 @@
+# Chapter 1: Boarding, The Bunk, & The Safeword
+
 The coastal chill of Barnegat Light gnawed through the thin cotton of Leo’s oversized hoodie. It was three in the morning. Bleak, grey, and thick with the smell of rotting bait and diesel exhaust. He stood at the edge of the docks, his chest heaving, lungs burning from the frantic sprint away from his apartment. The salty wind off the Atlantic cut straight to his bones, but the adrenaline still roaring in his ears kept him warm.
 
 He clutched his worn canvas duffel bag to his chest like a shield. It held everything he owned. Two pairs of jeans, a few shirts, and a toothbrush. Behind him lay the mainland. Behind him lay a fifteen-thousand-dollar debt to a vicious Newark syndicate, and the heavy thud of boots kicking in his front door.

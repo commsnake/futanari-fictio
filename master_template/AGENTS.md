@@ -10,8 +10,8 @@ The workflow in this repository is designed to be **highly flexible and non-line
 Before initiating any generation task or responding to a prompt, you must first assess the current state of the project. This means the workflow can be started or stopped at any point.
 
 When beginning a new session or resuming work, you must:
-1.  **Analyze the file hierarchy:** Look for the most recently updated files in directories such as `story_ideas/`, `reports/`, `world_building/`, `style_guides/`, etc.
-2.  **Determine the current phase:** Identify which of the 10 workflow steps (as defined in `futanari_repository_setup_guide.md`) is currently active based on existing artifacts. For instance, if `reports/4_world_bible.md` exists but no `reports/chapter_1.md` exists, you know the next logical step is to begin drafting chapters.
+1.  **Analyze the file hierarchy:** Look for the most recently updated files in directories such as `story_ideas/`, `briefs/`, `drafts/`, `world_building/`, `style_guides/`, etc.
+2.  **Determine the current phase:** Identify which of the 10 workflow steps (as defined in `futanari_repository_setup_guide.md`) is currently active based on existing artifacts. For instance, if `world_building/4_world_bible.md` exists but no `drafts/chapter_1_draft.md` exists, you know the next logical step is to begin drafting chapters.
 3.  **Prompt the User:** If the next logical step is ambiguous, ask the user how they wish to proceed based on your state assessment.
 
 ### 2. The "Ripple Effect" Protocol (Handling Feedback & Edits)
