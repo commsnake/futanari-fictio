@@ -18,6 +18,20 @@ app.use(express.static(path.join(process.cwd(), "public")));
 
 const DEFAULT_SKILLS_DIR = "/Users/lastresort/codex/skills";
 const DEFAULT_WORKSPACE = "/Volumes/New Home/Crucial Backup /Codex/Gassian-Blender-MCP";
+const ALLOWED_ROOTS = [
+  path.resolve(DEFAULT_WORKSPACE),
+  path.resolve(DEFAULT_SKILLS_DIR),
+  path.resolve(process.cwd())
+];
+
+function isPathAllowed(targetPath) {
+  const resolvedTarget = path.resolve(targetPath);
+  return ALLOWED_ROOTS.some(root => {
+    const relative = path.relative(root, resolvedTarget);
+    return !relative.startsWith("..") && !path.isAbsolute(relative);
+  });
+}
+
 const MAX_LOG_CHARS = 250000;
 const MAX_SESSION_MESSAGES = 16;
 const MAX_RETRIEVED_SNIPPETS = 8;
@@ -677,6 +691,11 @@ app.get("/api/health", (req, res) => {
 
 app.get("/api/skills", async (req, res) => {
   const skillsDir = req.query.skillsDir || DEFAULT_SKILLS_DIR;
+
+  if (!isPathAllowed(String(skillsDir))) {
+    return res.status(403).json({ error: "Access denied: skills directory must be within allowed directories." });
+  }
+
   const includeSystem = req.query.includeSystem === "1";
   try {
     const skills = await discoverSkills(String(skillsDir), includeSystem);
@@ -705,6 +724,11 @@ app.get("/api/models", async (req, res) => {
 app.get("/api/onboarding/status", async (req, res) => {
   const cwd = String(req.query.cwd || DEFAULT_WORKSPACE);
   const skillsDir = String(req.query.skillsDir || DEFAULT_SKILLS_DIR);
+
+  if (!isPathAllowed(cwd) || !isPathAllowed(skillsDir)) {
+    return res.status(403).json({ error: "Access denied: paths must be within allowed directories." });
+  }
+
   const deep = req.query.deep === "1";
   const detectedModel = await detectConfiguredModel();
   let codexInstalled = false;
@@ -772,6 +796,11 @@ app.get("/api/onboarding/status", async (req, res) => {
 app.get("/api/fs/list", async (req, res) => {
   const rawPath = String(req.query.path || "/");
   const currentPath = path.resolve(rawPath);
+
+  if (!isPathAllowed(currentPath)) {
+    return res.status(403).json({ error: "Access denied: path is outside of allowed directories." });
+  }
+
   try {
     const stat = await fs.stat(currentPath);
     if (!stat.isDirectory()) {
@@ -817,8 +846,13 @@ app.post("/api/session/prepare-workspace", async (req, res) => {
   if (!cwd) {
     return res.status(400).json({ error: "cwd is required." });
   }
+
+  if (!isPathAllowed(cwd) || !isPathAllowed(skillsDir)) {
+    return res.status(403).json({ error: "Access denied: paths must be within allowed directories." });
+  }
+
   try {
-    await fs.mkdir(cwd, { recursive: true });
+    await fs.mkdir(path.resolve(cwd), { recursive: true });
     const folders = ["intake", "dossiers", "drafts", "exports", "uploads", "logs"];
     for (const folder of folders) {
       await fs.mkdir(path.join(cwd, folder), { recursive: true });
@@ -885,6 +919,16 @@ app.post("/api/run", async (req, res) => {
     dryRun = false,
     attachedFilePaths = []
   } = req.body || {};
+
+  if (!isPathAllowed(cwd) || !isPathAllowed(skillsDir)) {
+    return res.status(403).json({ error: "Access denied: paths must be within allowed directories." });
+  }
+
+  for (const p of attachedFilePaths) {
+    if (p && !isPathAllowed(String(p))) {
+      return res.status(403).json({ error: `Access denied: attached file path '${p}' is not within allowed directories.` });
+    }
+  }
 
   if (!userPrompt || typeof userPrompt !== "string" || !userPrompt.trim()) {
     return res.status(400).json({ error: "userPrompt is required." });
@@ -957,6 +1001,11 @@ app.post("/api/run", async (req, res) => {
 app.post("/api/story-intake", async (req, res) => {
   const { cwd = DEFAULT_WORKSPACE, title = "", genre = "", tone = "", concept = "", notes = "" } =
     req.body || {};
+
+  if (!isPathAllowed(cwd)) {
+    return res.status(403).json({ error: "Access denied: workspace must be within allowed directories." });
+  }
+
   const content = [
     "# Story Intake",
     "",
@@ -990,7 +1039,19 @@ app.post("/api/upload", upload.array("files", 12), async (req, res) => {
   }
 
   try {
-    const uploadDir = path.join(cwd, targetDir);
+    const resolvedCwd = path.resolve(cwd);
+    const uploadDir = path.resolve(resolvedCwd, targetDir);
+
+    if (!isPathAllowed(uploadDir)) {
+      return res.status(403).json({ error: "Access denied: upload directory must be within allowed directories." });
+    }
+
+    // Security check: ensure uploadDir is within cwd to prevent path traversal
+    const relative = path.relative(resolvedCwd, uploadDir);
+    if (relative.startsWith("..") || path.isAbsolute(relative)) {
+      return res.status(400).json({ error: "Invalid target directory: path traversal detected within workspace." });
+    }
+
     await fs.mkdir(uploadDir, { recursive: true });
     const saved = [];
     const intakeCandidates = [];
@@ -1028,6 +1089,11 @@ app.post("/api/upload", upload.array("files", 12), async (req, res) => {
 app.post("/api/session/start", async (req, res) => {
   const { cwd = DEFAULT_WORKSPACE, model = "", skillsDir = DEFAULT_SKILLS_DIR, includeSystem = false } =
     req.body || {};
+
+  if (!isPathAllowed(cwd) || !isPathAllowed(skillsDir)) {
+    return res.status(403).json({ error: "Access denied: paths must be within allowed directories." });
+  }
+
   const id = `sess_${Date.now()}_${Math.random().toString(36).slice(2, 8)}`;
   const session = {
     id,
@@ -1070,6 +1136,13 @@ app.post("/api/session/:id/message", async (req, res) => {
   const attachedFilePaths = Array.isArray(req.body?.attachedFilePaths)
     ? req.body.attachedFilePaths.map((p) => String(p)).filter(Boolean)
     : [];
+
+  for (const p of attachedFilePaths) {
+    if (!isPathAllowed(p)) {
+      return res.status(403).json({ error: `Access denied: attached file path '${p}' is not within allowed directories.` });
+    }
+  }
+
   const extractedContexts = Array.isArray(req.body?.extractedContexts)
     ? req.body.extractedContexts
       .map((x) => ({
@@ -1079,6 +1152,12 @@ app.post("/api/session/:id/message", async (req, res) => {
       }))
       .filter((x) => x.file || x.path || x.excerpt)
     : [];
+
+  for (const ctx of extractedContexts) {
+    if (ctx.path && !isPathAllowed(ctx.path)) {
+      return res.status(403).json({ error: `Access denied: extracted context path '${ctx.path}' is not within allowed directories.` });
+    }
+  }
   if (!userText) return res.status(400).json({ error: "text is required." });
   if (attachedFilePaths.length) {
     session.attachedFilePaths = [...new Set([...session.attachedFilePaths, ...attachedFilePaths])];
@@ -1186,8 +1265,13 @@ app.post("/api/session/:id/export", async (req, res) => {
 
   const outputDir = String(req.body?.outputDir || session.cwd);
   const format = String(req.body?.format || "md").toLowerCase();
+
+  if (!isPathAllowed(outputDir)) {
+    return res.status(403).json({ error: "Access denied: output directory must be within allowed directories." });
+  }
+
   try {
-    await fs.mkdir(outputDir, { recursive: true });
+    await fs.mkdir(path.resolve(outputDir), { recursive: true });
     const intakeBase = session.intake.title
       ? session.intake.title.replace(/[^\w.\- ]/g, "_").trim().replace(/\s+/g, "_")
       : "STORY_INTAKE";
