@@ -29,14 +29,20 @@ def analyze_text(text):
 
     if sentences:
         lengths = [len(s.split()) for s in sentences]
-        avg_len = sum(lengths) / len(lengths)
+        total_words = sum(lengths)
+        total_sentences = len(sentences)
+        avg_len = total_words / total_sentences
+        analysis['word_count'] = total_words
+        analysis['sentence_count'] = total_sentences
         analysis['avg_sentence_length'] = round(avg_len, 1)
         analysis['max_sentence_length'] = max(lengths)
         analysis['min_sentence_length'] = min(lengths)
     else:
-         analysis['avg_sentence_length'] = 0
-         analysis['max_sentence_length'] = 0
-         analysis['min_sentence_length'] = 0
+        analysis['word_count'] = 0
+        analysis['sentence_count'] = 0
+        analysis['avg_sentence_length'] = 0
+        analysis['max_sentence_length'] = 0
+        analysis['min_sentence_length'] = 0
 
     return analysis
 
