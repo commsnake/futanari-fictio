@@ -997,26 +997,42 @@ app.post("/api/upload", upload.array("files", 12), async (req, res) => {
     const intakeSources = [];
     const parseFailures = [];
     const extractedContexts = [];
-    for (const file of files) {
-      const safeName = path.basename(file.originalname).replace(/[^\w.\- ]/g, "_");
-      const finalPath = path.join(uploadDir, safeName);
-      await fs.writeFile(finalPath, file.buffer);
-      saved.push(finalPath);
-      if (isTextLikeFile(file)) {
-        try {
-          const text = await readUploadText(file);
-          const excerpt = String(text || "").replace(/\s+/g, " ").trim().slice(0, 3000);
-          extractedContexts.push({ file: safeName, path: finalPath, excerpt });
-          const parsed = extractIntakeFromText(text, safeName);
-          if (parsed) {
-            intakeCandidates.push(parsed);
-            intakeSources.push(safeName);
+    const results = await Promise.all(
+      files.map(async (file) => {
+        const safeName = path.basename(file.originalname).replace(/[^\w.\- ]/g, "_");
+        const finalPath = path.join(uploadDir, safeName);
+        await fs.writeFile(finalPath, file.buffer);
+        let extractedContext = null;
+        let intakeCandidate = null;
+        let intakeSource = null;
+        let parseFailure = null;
+
+        if (isTextLikeFile(file)) {
+          try {
+            const text = await readUploadText(file);
+            const excerpt = String(text || "").replace(/\s+/g, " ").trim().slice(0, 3000);
+            extractedContext = { file: safeName, path: finalPath, excerpt };
+            const parsed = extractIntakeFromText(text, safeName);
+            if (parsed) {
+              intakeCandidate = parsed;
+              intakeSource = safeName;
+            }
+          } catch (error) {
+            parseFailure = { file: safeName, error: error.message };
           }
-        } catch (error) {
-          parseFailures.push({ file: safeName, error: error.message });
-          // Keep upload successful even if extraction fails for one file.
         }
+        return { finalPath, extractedContext, intakeCandidate, intakeSource, parseFailure };
+      })
+    );
+
+    for (const r of results) {
+      saved.push(r.finalPath);
+      if (r.extractedContext) extractedContexts.push(r.extractedContext);
+      if (r.intakeCandidate) {
+        intakeCandidates.push(r.intakeCandidate);
+        intakeSources.push(r.intakeSource);
       }
+      if (r.parseFailure) parseFailures.push(r.parseFailure);
     }
     const intake = intakeCandidates.length ? mergeIntakeCandidates(intakeCandidates) : null;
     return res.json({ ok: true, saved, intake, intakeSources, parseFailures, extractedContexts });
